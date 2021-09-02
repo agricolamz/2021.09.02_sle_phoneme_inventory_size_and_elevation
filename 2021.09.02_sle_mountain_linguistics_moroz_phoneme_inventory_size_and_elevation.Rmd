@@ -224,6 +224,16 @@ Languages: [@koryakov21]
 * Nakh, Ingush [@nichols94b]
 * Nakh, Tsova-Tush [@holisky94]
 
+## Phonological peculiarities
+
+* East Caucasian consonant systems are more or less typical
+    * except uvular and laryngeal consonants
+    * except ejective consonants
+    * except laterals in Avar-Andic and Tsezic branches
+    * except labialization
+    * except gemination
+* East Caucasian vowel systems are typical
+
 ## Phonological data
 
 `r nrow(data)` $\times$ `r ncol(data)` [table](https://raw.githubusercontent.com/agricolamz/2020.10.21_HSE_Phonology_of_East_Caucasian_languages/master/data/data.csv) with the following columns:
