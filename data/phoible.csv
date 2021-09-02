@@ -1,0 +1,2133 @@
+id,glottocode,name,source,latitude,longitude,elevation,macroarea
+2552,abkh1244,Abkhaz,ea,"43,056218","41,159115",539,Eurasia
+2349,adyg1241,Adyghe,ea,44,"39,33",304,Eurasia
+2310,kaba1278,Kabardian,ea,"43,5082","43,3918",1189,Eurasia
+198,afad1236,KOTOKO,upsid,"12,0551","14,6343",287,Africa
+1342,afar1241,Afar,gm,"12,2281","41,8083",354,Africa
+1451,alab1254,Alaaba,gm,"7,39014","38,1732",1984,Africa
+2156,amha1245,Amharic,uz,"11,708182","39,543456",3396,Africa
+1525,arbo1245,Arbore,gm,"4,92183","36,7986",576,Africa
+1396,argo1244,Argobba,gm,"10,6596",39756,2995,Africa
+1542,awng1244,Awngi,gm,"10,9819","36,6916",2107,Africa
+1437,bade1248,Bade,gm,12789,"10,6557",301,Africa
+1248,bana1305,bana,gm,"10,3535","13,6131",913,Africa
+1612,bare1279,Barein (Jalkiya),gm,"11,1168","18,0764",436,Africa
+249,beja1238,BEJA,upsid,"17,2436","36,6666",370,Africa
+1401,besl1239,Besleri,gm,NA,NA,NA,Africa
+1332,bili1260,Blin,gm,"15,7833","38,3917",1663,Africa
+1362,bora1271,Galla,gm,"1,05676",37882,719,Africa
+1657,burj1242,Burji,gm,"4,44624","38,4646",1459,Africa
+1402,buwa1243,Buwal,gm,"10,6151","13,8838",591,Africa
+1609,cent2194,Tamazight Berber,gm,"32,7415","-2,40872",1355,Africa
+866,cuvo1236,Cuvok,ph,"10,6448","14,0006",594,Africa
+301,daha1245,DAHALO,upsid,"-2,1843","40,37",95,Africa
+297,dang1274,DANGALEAT,upsid,"12,1517",18385,626,Africa
+420,dera1248,KANAKURU,upsid,10072,"12,0256",213,Africa
+1299,dghw1239,Dghwede,gm,"11,05751","13,77847",718,Africa
+1552,east2652,"Oromo, Eastern",gm,"8,67428","41,4395",1317,Africa
+132,egyp1253,Egyptian Arabic,spa,31,31,17,Africa
+1377,fali1285,Kirya-Konzɘl,gm,"10,5419","13,4087",849,Africa
+1577,gava1241,Gavar,gm,"10,5603","13,8188",614,Africa
+901,gida1247,Kada,ph,"9,874715","14,07845",474,Africa
+1543,glav1244,Glavda,gm,"11,1334","13,8652",407,Africa
+1578,gude1246,Gu'de,gm,"10,2138",13403,855,Africa
+1352,gwan1268,Gwandara (Karshi),gm,"9,20464","7,49931",709,Africa
+1363,hadi1240,Hadiyya,gm,"7,57377","37,7577",2288,Africa
+1397,hara1271,Harari,gm,"9,30485","42,1332",1853,Africa
+2188,haus1257,Hausa,uz,"11,1513","8,7804",599,Africa
+1403,hdii1240,Hide,gm,10942,"13,6881",583,Africa
+2189,hebr1245,Hebrew,uz,"31,1056","35,0179",572,Eurasia
+1304,huba1236,Kilba,gm,"10,3544",13139,543,Africa
+1465,inor1238,Ennemor,gm,"7,94883","37,7968",2133,Africa
+129,iraq1241,Iraqw,spa,"-4,19948","35,2939",1841,Africa
+900,kaby1243,Kabyle,ph,"36,4103","4,76137",568,Africa
+1373,kamb1316,Kambaata,gm,"7,37582","37,9088",2124,Africa
+1368,kamw1239,Higi,gm,10646,"13,5136",535,Africa
+2220,kera1255,Kera,uz,"9,88165","15,1419",354,Africa
+1457,kist1241,Goggot,gm,"8,33561","38,4763",2449,Africa
+1305,kofy1242,Kofyar,gm,"8,79947","9,15279",232,Africa
+1406,lagw1237,Lagwan,gm,"11,5592","14,9884",293,Africa
+1404,lama1288,Lamang,gm,"11,0243","13,7362",916,Africa
+1275,lele1276,Lele,gm,9158,"15,81149",426,Africa
+1098,liby1240,Lebanese Arabic,ph,"22,0032","15,0014",587,Africa
+591,lish1246,NEO-ARAMAIC,upsid,38,47,897,Eurasia
+1315,maay1238,Maay,gm,"3,22288","43,6182",500,Africa
+931,mada1293,Mada,ph,"10,8806","14,1142",497,Africa
+2275,malt1254,Maltese,ea,"35,8884","14,4508",52,Eurasia
+126,marg1265,Margi,spa,"10,93854","13,0521",423,Africa
+1378,mawa1270,Mawa,gm,"11,7461","18,2999",527,Africa
+1408,mbuk1243,Mbuko,gm,"10,7788","14,1677",495,Africa
+2510,mehr1241,Mehri,ea,"21,4268","51,1512",1141,Eurasia
+1584,mere1246,Mere,gm,"10,7458","14,09",761,Africa
+1458,mesq1240,Masqan,gm,"8,10617","38,3386",2161,Africa
+1598,mofu1248,"Mofu, South",gm,10567,"14,0314",551,Africa
+1409,molo1266,Moloko,gm,"10,7933","14,2521",673,Africa
+133,moro1292,Moroccan Arabic,spa,"32,5","-7,5",349,Africa
+1597,mpad1242,Kotoko,gm,"12,4609","14,5833",293,Africa
+1410,muya1243,Muyang,gm,"10,86047","14,21246",399,Africa
+794,mwag1236,mwaghavul,aa,"9,47205","8,96522",1370,Africa
+2607,najd1235,Najdi Arabic,ea,"30,3371","42,1773",442,Eurasia
+125,ngas1240,Angas,spa,"9,32042","9,46146",1236,Africa
+491,ngiz1242,NGIZIM,upsid,"12,1051","11,0178",318,Africa
+1624,nort3047,Gisiga,gm,"10,6755",14219,469,Africa
+967,nubi1253,Nubi,ph,"-0,183215","34,7552",1133,Africa
+1576,nucl1683,Daba,gm,"10,3521","13,6318",831,Africa
+1195,nucl1695,Bole,ph,"11,4839","11,2322",472,Africa
+1567,nucl1696,Tangale,gm,"9,75444","11,3228",779,Africa
+1376,nyam1285,Nyam,gm,"9,18024","10,83652",260,Africa
+1631,orma1241,Orma,gm,"-1,79489","39,60749",144,Africa
+808,park1239,podoko,aa,"11,0206","14,0964",470,Africa
+1361,pero1241,Pero,gm,"9,62092",11044,487,Africa
+446,peve1243,LAME,upsid,"9,16111",14441,320,Africa
+1161,qima1242,Agaw,ph,"12,8119","37,0542",1215,Africa
+811,rend1243,rendille,aa,"2,27065","37,3608",523,Africa
+1370,saya1246,Syan,gm,"9,69441","9,71748",447,Africa
+1464,seba1251,Gyeto,gm,"8,11879","37,9891",2271,Africa
+2621,sheh1240,Jibbali,ea,"17,29154","53,99526",790,Eurasia
+1080,sida1246,Sidaama; Sidamo; Sidamic,ph,"6,74176","38,3729",1732,Africa
+1414,silt1240,Silt'i,gm,"7,77004","38,1449",2091,Africa
+1610,siwi1239,Siwi,gm,"29,200415","25,519627",-13,Africa
+127,soma1255,Somali,spa,"4,778704","45,152856",226,Africa
+555,soqo1240,SOCOTRI,upsid,"12,4892","53,9168",925,Eurasia
+2157,stan1318,Arabic,uz,"27,9625","43,8525",622,Eurasia
+659,suda1236,arabe,aa,"17,8021","33,3179",500,Africa
+1648,tach1250,Tachelhit,gm,"29,7854","-7,77879",1031,Africa
+575,taha1241,TAMASHEQ,upsid,"22,5908","8,73169",991,Africa
+825,tama1365,tamasheq,aa,"14,2038","-2,41269",274,Africa
+123,tari1263,Shilha,spa,"34,916974","-3,430616",361,Africa
+824,tawa1286,tamajaq,aa,"13,9878","4,47692",274,Africa
+2214,tera1251,Tera,uz,"11,0376","11,80953",437,Africa
+130,tigr1270,Tigre,spa,"17,3494","38,2233",2359,Africa
+1350,tigr1271,Tigrinya,gm,"15,3359","38,9266",2324,Africa
+1608,tsam1247,Ts'amakko,gm,"5,3097","36,9139",940,Africa
+1595,vame1236,Vame,gm,"10,9481","14,2131",410,Africa
+1585,wand1278,Mandara,gm,"11,3169","13,8996",333,Africa
+1635,wuzl1236,Ouldeme,gm,10955,"14,1378",623,Africa
+1333,xamt1239,Xamtanga,gm,"12,4479","38,8352",2196,Africa
+1510,zayy1238,Zway,gm,"8,01148","38,8258",1636,Africa
+851,zulg1242,zulgo,aa,10827,"14,0578",713,Africa
+196,ainu1240,Ainu,spa,"43,633654","142,46167",204,Eurasia
+72,east2542,Ojibwa,spa,"45,0112","-79,7503",211,North America
+1012,shaw1249,Shawnee,ph,35354,"-96,7635",236,North America
+1103,siks1238,Blackfoot,ph,"49,0669",-113109,1233,North America
+73,unam1242,Delaware,spa,"35,0264","-98,3201",383,North America
+614,wiyo1248,WIYOT,upsid,"39,2492",-122952,553,North America
+1025,yuro1248,Yurok,ph,"41,3262",-123824,620,North America
+203,anga1290,ANGAATIHA,upsid,"-7,15012",146352,1544,Papunesia
+1802,mapu1245,Mapudungun,saphon,"-38,7392",-71277,1448,South America
+1803,acha1250,Achagua,saphon,"4,38649","-72,2005",153,South America
+1807,ajyi1238,Ashéninka,saphon,"-9,82364","-74,61947",679,South America
+1092,apur1254,Apurinã,ph,"-8,21692","-66,7714",100,South America
+1805,araw1276,Lokono,saphon,"5,64295","-56,9243",1,South America
+1806,asha1243,Asháninka,saphon,"-11,9311","-73,9073",726,South America
+1808,ashe1272,Ashéninka,saphon,"-10,9777","-74,9153",725,South America
+1075,bani1255,Kurripako; Baniwa; Baniwa (Icana),ph,"2,17859","-67,7704",169,South America
+1813,bare1276,Baré,saphon,"1,91649",-66828,35,South America
+1843,baur1253,Baure,saphon,"-13,1278","-64,1838",128,South America
+1814,cabi1241,Cabiyarí,saphon,"0,16101","-71,0622",111,South America
+1815,caqu1242,Caquinte,saphon,"-11,4812","-73,4451",1942,South America
+855,cham1318,Chamicuro,ph,"-5,1149","-75,6778",144,South America
+1817,curr1243,Curripaco,saphon,"0,69618","-67,5028",79,South America
+1818,enaw1238,Enawené-Nawé,saphon,"-12,4302","-58,9802",368,South America
+1820,guan1270,Kinikinao,saphon,"-19,1667","-54,0333",362,South America
+1834,guar1293,Warekena,saphon,"1,80835","-66,922505",70,South America
+1844,igna1246,Ignaciano,saphon,"-15,1188","-65,3993",132,South America
+1819,inap1243,Iñapari,saphon,"-12,4653","-69,3083",197,South America
+107,isla1278,Island Carib,spa,"15,364795","-61,342957",1,North America
+1822,mach1267,Matsigenka,saphon,"-12,1291","-72,5017",1773,South America
+1821,mach1268,Manchinere,saphon,"-10,4804","-69,7683",186,South America
+1823,mehi1240,Mehináku,saphon,"-12,5364",-53521,262,South America
+1824,nant1250,Nanti,saphon,"-12,1018","-72,3507",2505,South America
+1825,noma1263,Nomatsigenga,saphon,"-11,5349","-74,4371",1142,South America
+1826,pali1279,Palikúr,saphon,"3,63993","-51,6246",97,South America
+1827,para1316,Paraujano,saphon,"10,8427","-71,8399",16,South America
+1828,pare1272,Paresí,saphon,"-14,5929","-57,4059",386,South America
+1829,piap1246,Piapoco,saphon,"4,37718","-68,5953",99,South America
+1809,pich1237,Ashéninka,saphon,"-10,47249","-74,60281",718,South America
+1830,resi1247,Resígaro,saphon,"-2,48139","-71,3578",101,South America
+1831,tari1256,Tariana,saphon,"0,440205","-68,9042",98,South America
+1832,tere1279,Terêna,saphon,"-20,6614","-56,0329",204,South America
+2155,trin1274,Trinitario,saphon,"-15,3331","-65,4096",132,South America
+1810,ucay1237,Ashéninka,saphon,"-9,49424","-73,1836",290,South America
+1833,wapi1253,Wapichana,saphon,"2,58744","-59,8021",199,South America
+1835,waur1244,Waurá,saphon,-13296,"-53,6971",311,South America
+1836,wayu1243,Wayúu,saphon,"11,395566","-72,199791",32,South America
+1837,xiri1243,Xiriâna,saphon,"2,69932","-62,5413",228,South America
+1838,yane1238,Yánesha,saphon,"-10,5454",-75315,1942,South America
+1839,yavi1244,Yavitero,saphon,"2,800281","-68,084219",239,South America
+1840,yawa1261,Yawalapití,saphon,"-12,5104","-53,4236",257,South America
+1153,yine1238,Yine,ph,"-11,1086","-73,3087",652,South America
+1842,yucu1253,Yucuna,saphon,"-0,76075","-71,0033",100,South America
+1848,culi1244,Kulina,saphon,"-8,55268","-70,6648",200,South America
+1845,deni1241,Dení,saphon,"-6,74962","-67,5029",89,South America
+897,jama1261,Jarawara,ph,"-7,62223","-66,5662",91,South America
+1849,paum1247,Paumarí,saphon,"-5,78403","-64,2803",64,South America
+1850,suru1263,Suruahá,saphon,"-6,82525","-66,3146",90,South America
+206,ahte1237,AHTNA,upsid,"61,7068",-144889,398,North America
+63,chip1261,Chipewyan,spa,"58,3637",-110832,334,North America
+325,eyak1241,EYAK,upsid,"60,4232",-144762,3,North America
+65,hupa1239,Hupa,spa,"41,0982","-123,68",159,North America
+1232,jica1244,Jicarilla Apache,ph,"36,8079",-107007,2370,North America
+951,mesc1238,Chiricahua Apache,ph,"33,1291",-105566,2379,North America
+66,nava1243,Navaho,spa,"36,2106",-110082,2196,North America
+1168,tana1290,Tanacross,ph,"63,4046",-143338,489,North America
+579,tlin1245,TLINGIT,upsid,"59,4447","-135,29",801,North America
+1069,tolo1259,Tolowa; Tolowa-Chetco,ph,"41,9192","-124,1",216,North America
+1617,abar1238,Mungbam,gm,"6,5805","10,2267",763,Africa
+1526,abid1235,Abidji,gm,"5,65656","-4,58421",72,Africa
+1297,abua1244,Abua,gm,"4,83057","6,61492",128,Africa
+1521,abur1243,Abure,gm,"5,21534","-3,64123",74,Africa
+1234,adam1253,Adamawa Fulfulde; Adamawa Fulani,ph,"8,140326","13,077338",363,Africa
+692,adan1247,dangme,aa,"5,9437","0,13243",76,Africa
+1527,adio1239,Adioukrou,gm,"5,38228","-4,52522",135,Africa
+1524,aghe1239,Aghem,gm,"6,38956","10,0807",1145,Africa
+1400,ahan1243,Ahanta,gm,"4,85147","-1,94657",77,Africa
+1544,ahan1244,Ahaan,gm,"7,44139","6,00896",304,Africa
+651,ajab1235,adja,aa,"7,06634","1,64992",152,Africa
+1245,akan1250,Akan,gm,"6,34756","-1,33254",173,Africa
+1572,akas1242,Akasilimi,gm,"8,8858","1,37035",308,Africa
+1554,akoo1248,Akoose,gm,"4,9243","9,65522",808,Africa
+1532,akpe1248,Akpes,gm,"7,50256","5,95559",301,Africa
+1529,alla1248,Alladian,gm,"5,22371","-4,42647",75,Africa
+1091,ambe1247,Ambele,ph,"5,94043","9,62028",1380,Africa
+220,amoo1242,AMO,upsid,"10,3229","8,65405",764,Africa
+1658,anii1245,Anii,gm,"9,11127","1,60169",374,Africa
+1246,anuf1239,anufɔ,gm,"10,2839","0,56021",145,Africa
+1244,anyi1244,Agni Morofo,gm,"6,1627","-4,64232",76,Africa
+1242,anyi1245,Anyi Sanvi,gm,"6,31781","-3,30532",167,Africa
+205,apro1235,AIZI,upsid,"5,20273","-4,52192",77,Africa
+1530,ashe1269,Tinɔr,gm,"9,36574","7,39443",577,Africa
+1550,atti1239,Attie,gm,"5,9977","-3,8209",82,Africa
+1296,avat1244,Avatime,gm,"6,8688","0,41314",224,Africa
+1358,avik1243,Avikam,gm,"5,15838","-5,2529",72,Africa
+1176,awin1248,Awing,ph,"5,88362",10264,1826,Africa
+1545,ayer1245,Uwu,gm,"7,52206","6,01979",317,Africa
+741,baan1242,kambari,aa,"10,8083","5,7261",382,Africa
+669,baat1238,bariba,aa,"9,63186","2,99607",439,Africa
+1178,baba1264,Baba,ph,"6,11222","10,5216",1503,Africa
+1179,baba1266,Babanki,ph,"5,97863","10,2869",1630,Africa
+1329,bady1239,Pajade,gm,"12,6425","-13,4759",45,Africa
+926,bafa1247,Bafo,ph,"4,53307",9522,133,Africa
+1656,bafa1249,Nchufie,gm,"5,84612","10,4518",1215,Africa
+1258,bafi1243,kpaʔ,gm,"4,72603","11,0982",611,Africa
+662,bafu1246,bafut,aa,"6,14153","10,1194",842,Africa
+1199,baga1272,Baga Sitem,ph,"10,4793","-14,4756",60,Africa
+1060,baga1273,Baga Koga; Koba; Barka,ph,"10,1286",-13947,78,Africa
+1574,baka1272,Baka,gm,"2,16013","13,7804",582,Africa
+1555,baka1273,Bakaka (Mwaneka),gm,"4,79991","9,80402",452,Africa
+1180,bako1249,Bakoko,ph,"3,56518","9,99905",10,Africa
+914,bako1250,Kole,ph,"4,43654","8,97387",232,Africa
+1391,bala1302,Balante,gm,"12,5382","-15,6658",29,Africa
+1204,bamb1265,Bambalang; Círàmbɔ́,ph,5861,10544,1126,Africa
+934,bame1260,Mamenyan,ph,"5,77049","10,3302",1216,Africa
+1009,bamu1253,Shupamem,ph,"5,49017","10,8477",972,Africa
+1182,bamu1256,Bamunka,ph,"6,00203","10,5127",1205,Africa
+665,band1345,banda,aa,"8,03339","23,9021",893,Africa
+1183,bang1356,Bangolan,ph,"6,0125",10667,1205,Africa
+1522,bank1256,Bankon,gm,"4,3702","9,6403",75,Africa
+1100,baou1238,Baule,ph,"5,42509","-4,76565",90,Africa
+670,basa1284,basaa,aa,"3,80765","10,4213",147,Africa
+1559,bass1260,Bassossi,gm,"5,23655","9,52275",1362,Africa
+1184,bata1285,Banoo,ph,"1,397041","9,51011",594,Africa
+144,beem1239,Beembe,spa,"-3,95895","14,1",361,Africa
+1186,befa1241,Befang,ph,"6,27562","10,0342",605,Africa
+674,bekw1241,bekwarra,aa,"6,73737","8,86489",124,Africa
+1435,bela1255,Belanda Viri,gm,"7,41311","27,6956",480,Africa
+1188,bemb1257,Bemba,ph,"-10,6122","29,2993",1241,Africa
+1513,bena1262,Bena,gm,"-9,26671","35,0364",1635,Africa
+675,bero1242,berom,aa,"9,67037","8,81221",1219,Africa
+677,bhel1238,bhele,aa,"0,24553","28,6681",924,Africa
+678,bial1238,biali,aa,"11,0382","1,08259",152,Africa
+1494,bidy1244,Bijogo,gm,"11,1097","-16,1497",9,Africa
+1102,bike1242,Bikele,ph,NA,NA,NA,Africa
+1251,bila1255,bila,gm,"1,16839","28,7626",710,Africa
+679,bimo1239,bimoba,aa,"10,4575","0,06121",175,Africa
+704,bini1246,ẹdo,aa,"6,40701","5,70426",134,Africa
+1511,bomi1238,Leke,gm,"1,70044","17,3733",403,Africa
+1607,boun1243,Kulango,gm,"8,46011","-2,74627",241,Africa
+1603,buam1238,Bwamut,gm,"11,1687","-3,50303",337,Africa
+1336,budu1250,Kibudu,gm,"2,00501",27951,774,Africa
+1201,buku1249,Bukusu,ph,"0,68043","34,7719",1654,Africa
+1390,buli1254,Buli,gm,"10,5763","-1,26748",152,Africa
+684,bulu1251,bulu,aa,"3,16141","11,6365",752,Africa
+1575,bumm1238,Bum,gm,"6,48655",10418,1219,Africa
+1583,came1252,Mambila,gm,"6,43829","11,41953",843,Africa
+1256,ceba1235,Senoufo-Cebaara,gm,"9,50768","-6,15264",444,Africa
+713,cent2018,fulfulde,aa,"15,0907","8,43261",461,Africa
+685,cerm1238,cerma,aa,"10,1245","-4,94917",297,Africa
+1068,chee1238,Che; Rukuba; Kuche; Bache; Inchazi; Sale,ph,"10,0031","8,67024",951,Africa
+1323,cher1271,Hill Guang,gm,"6,05387","-0,10955",199,Africa
+1586,chon1287,Chonyi,gm,-6518,38672,78,Africa
+686,chum1261,chumburung,aa,"8,15211","-0,2755",84,Africa
+1318,copi1238,Copi,gm,NA,NA,NA,Africa
+781,cros1244,mbembe,aa,"6,16926","8,23592",107,Africa
+139,dagb1246,Dagbani,spa,"9,64745","-0,43227",175,Africa
+252,dalo1238,BETE,upsid,"6,69281","-6,63944",286,Africa
+1452,dege1246,Degema,gm,"4,73373","6,80991",350,Africa
+787,degg1238,mo,aa,"8,43846","-2,28724",159,Africa
+867,deny1238,Denya,ph,"5,97237","9,39989",148,Africa
+1247,dibo1245,babole,gm,"1,07773","17,2305",359,Africa
+1587,digo1243,Digo,gm,"-4,62101","39,1752",18,Africa
+1271,diri1252,diriku,gm,"-18,1681","20,6678",1076,Africa
+697,dita1238,ditammari,aa,"10,1614","1,18045",453,Africa
+1495,domp1238,Dompo,gm,8182,-2295,223,Africa
+698,doya1240,doayo,aa,"8,68604","13,0768",287,Africa
+700,dual1243,duala,aa,"4,10208","9,61877",1,Africa
+1588,duru1249,Duruma,gm,"-4,09629",39322,196,Africa
+906,east2398,Kar,ph,"10,4987","-4,52253",264,Africa
+702,ebir1243,ebira,aa,"8,15516","7,06183",357,Africa
+316,efik1245,EFIK,upsid,"4,89379","8,38121",76,Africa
+1523,efut1241,Efutu,gm,NA,NA,NA,Africa
+1233,egaa1242,Ega,ph,"5,56081","-5,41732",99,Africa
+873,eggo1239,Eggon,ph,"8,71442","8,45686",347,Africa
+1654,ejag1239,Ejagham,gm,"5,54442","8,90959",500,Africa
+874,ekpe1253,Ekpeye,ph,"5,06715","6,53362",113,Africa
+969,elip1238,Nulibie,ph,"4,45694",11193,446,Africa
+1300,eloy1241,Eloyi,gm,"8,24696","7,97061",253,Africa
+707,emai1241,emai,aa,"7,09089","5,84494",139,Africa
+708,enge1239,engenni,aa,"5,11931","6,37339",80,Africa
+876,esim1238,Esimbi,ph,"6,50094","9,86936",591,Africa
+1533,eten1239,Iten,gm,"9,73073","8,61443",1150,Africa
+1563,eton1253,Eton,gm,"4,21045","11,3935",539,Africa
+142,ewee1241,Ewe,spa,"6,46061","0,814975",82,Africa
+709,ewon1239,ewondo,aa,"4,21141","11,93646",583,Africa
+705,ezaa1238,ẹzaa,aa,NA,NA,NA,Africa
+877,fang1246,Fan,ph,"1,723965","11,61454",535,Africa
+1621,fang1248,Fang,gm,"6,54384",10319,762,Africa
+710,fefe1239,fe'efe'fe,aa,"5,18158","10,1442",1272,Africa
+1659,fipa1238,Fipa,gm,"-7,88963","31,3442",2129,Africa
+711,fonn1241,fɔn,aa,"7,15484","1,66495",144,Africa
+1310,food1238,Foodo,gm,"9,56489","1,40486",394,Africa
+1325,fraf1238,Frafra,gm,NA,NA,NA,Africa
+1651,fuli1240,Fuliiru,gm,"-3,04022","28,9865",1840,Africa
+852,fwee1238,Fwe,ph,"-17,72372","24,43151",948,Africa
+141,gaaa1244,Ga,spa,"5,65488","-0,18598",77,Africa
+1500,gaaa1245,Tiba,gm,"8,4809","11,9603",634,Africa
+673,gagn1235,bété,aa,"6,10051","-5,9701",203,Africa
+770,gand1255,luganda,aa,"0,66884","32,15153",1158,Africa
+339,gbag1258,GWARI,upsid,"9,29842","6,90495",272,Africa
+880,gbar1246,Gbari,ph,"8,46411","7,10757",234,Africa
+939,gbay1281,Mbodomo; Mbódɔ̀mɔ́,ph,"4,800365","14,606865",724,Africa
+148,gbay1287,Gbeya,spa,"6,61896",17645,480,Africa
+1282,gbes1238,gbesi,gm,"6,55911","2,0269",70,Africa
+721,genn1243,gɛn-mina,aa,"6,25971","1,67727",64,Africa
+1384,ghom1247,Banjun,gm,"5,39619",10352,1527,Africa
+1302,giky1238,Gechode,gm,"8,39478","0,56975",285,Africa
+1303,giny1241,Genyanga,gm,"8,2327","0,98348",304,Africa
+1589,giry1241,Giryama,gm,"-3,30638","39,6648",134,Africa
+723,godi1239,godié,aa,"5,3944","-5,82696",225,Africa
+724,gonj1241,gonja,aa,"8,48801","-0,72757",104,Africa
+727,gour1243,gulmancema,aa,"11,6711","1,28489",193,Africa
+1638,gwen1239,Kigweno,gm,"-3,68407","37,6827",1185,Africa
+728,hang1258,hanga,aa,"9,33929","-1,57833",152,Africa
+1643,hang1260,Kihangaza,gm,"-2,52347","30,7074",1388,Africa
+884,haya1250,Haya,ph,"-1,70878","31,4846",1262,Africa
+1255,here1253,herero,gm,"-21,0231","20,5655",1140,Africa
+1389,holo1240,Holoholo,gm,"-5,37545","28,3274",769,Africa
+1114,hung1278,Kihungan,ph,"-3,69695","18,4312",343,Africa
+1057,ibib1240,Ibibio,ph,"5,15279","7,86688",163,Africa
+1536,idom1241,Idu,gm,"7,19139","7,71261",181,Africa
+731,ifee1241,ifɛ̀,aa,"7,63568","1,58494",185,Africa
+733,iged1239,igede,aa,"6,95522","8,27362",140,Africa
+1580,igoo1238,Igo,gm,"7,25499","0,67846",587,Africa
+1276,ikal1242,Ikalanga,gm,NA,NA,NA,Africa
+1405,ikwe1242,Ikwere,gm,"5,04333","6,86651",363,Africa
+735,ikwo1238,ikwo,aa,NA,NA,NA,Africa
+1537,irig1241,Rigwe,gm,"9,85197","8,6525",1086,Africa
+372,isok1239,ISOKO,upsid,"5,52889","6,24682",83,Africa
+1664,iyiv1238,Iyive,gm,"6,50437","9,53302",303,Africa
+896,izer1241,Hill Jarawa,ph,"9,5","8,7",981,Africa
+736,izii1239,izi,aa,"6,33",8,128,Africa
+1539,jere1244,Jere,gm,"10,1962","8,95834",890,Africa
+1439,jita1239,Jita,gm,"-1,62681","33,9141",1244,Africa
+1311,jola1262,Joola Huluf,gm,"12,5089","-16,5539",24,Africa
+737,jola1263,joola,aa,"12,75752","-15,7354766667",15,Africa
+1142,kabi1261,Kabiye,ph,"8,96816","0,495023",236,Africa
+1535,kagf1238,West Kainji,gm,"11,5319","4,8387",305,Africa
+1381,kagu1239,Kagulu,gm,"-6,38204","37,0534",979,Africa
+1642,kahe1238,Kikahe,gm,"-3,51412","37,5759",856,Africa
+1581,kako1242,Kako,gm,"3,79989","15,6282",542,Africa
+1443,kamb1297,Kikamba,gm,"-1,60827","37,9532",961,Africa
+744,kara1478,karaŋ,aa,"8,01727","15,2114",599,Africa
+1347,kare1338,Kare,gm,"7,05641","15,2207",945,Africa
+745,kase1253,kasem,aa,"11,0824","-1,39076",304,Africa
+1337,kele1255,Iikile,gm,"0,36906","24,3098",442,Africa
+1412,keme1240,Kemezung,gm,"6,69577","10,4984",884,Africa
+905,kens1251,Kensei Nsei,ph,"6,01713",10412,1468,Africa
+908,keny1279,Kenyang,ph,"5,58288","9,55918",876,Africa
+1290,kete1252,kete,gm,"-7,15104","22,9027",849,Africa
+1449,kgal1244,Shekgalagari,gm,"-24,9208","22,72016",1045,Africa
+748,kiku1240,kikuyu,aa,"-0,29005",36719,2759,Africa
+911,kiny1244,Kinyarwanda,ph,"-1,56771","29,6441",1608,Africa
+1446,kisa1263,Olukisa,gm,"0,1529","34,5708",1391,Africa
+792,kitu1245,munukutuba,aa,"-4,15654","14,5648",352,Africa
+1571,kitu1246,Kituba,gm,"-2,29601","17,1548",421,Africa
+417,klao1243,KLAO,upsid,"6,87233","-10,9214",90,Africa
+246,kohu1244,KOHUMONO,upsid,"5,92596","7,96202",106,Africa
+750,komc1235,kom,aa,"6,2596","10,3348",1792,Africa
+751,komo1260,komo,aa,"-0,76333","26,7144",929,Africa
+1508,konk1269,Konkomba,gm,"9,82224","0,2783",134,Africa
+915,konn1242,Konni,ph,"10,2368","-1,54376",196,Africa
+747,koon1245,kɔɔzime,aa,"3,25933","13,54152",611,Africa
+1620,kosh1246,Koshin,gm,"6,5817",10299,673,Africa
+1281,kota1272,kotafon,gm,"6,64027","1,72346",65,Africa
+424,kpan1246,KPAN,upsid,"7,58343","10,1642",152,Africa
+1306,krac1238,Krache,gm,"7,93475","0,01925",159,Africa
+1307,krim1238,Krim,gm,"7,24116","-11,8393",27,Africa
+1501,kuan1247,Kwanyama,gm,"-17,7176","16,58",1109,Africa
+1365,kuny1238,Nyanga,gm,"-3,69702","12,5197",152,Africa
+1346,kuoo1238,Kuo,gm,"7,97771","15,4843",601,Africa
+758,kuri1259,kuria,aa,"-1,50636","34,5049",1216,Africa
+759,kusa1250,kusal,aa,"10,9703","-0,38756",160,Africa
+1119,kute1248,Kuteb,ph,"7,07479","10,0916",263,Africa
+1549,kuwa1246,Kwatay,gm,"12,48255","-16,74835",7,Africa
+1604,kwam1250,Kwami,gm,"-1,53712","27,4633",1010,Africa
+1503,kwam1251,Kwambi,gm,"-18,0339","15,7294",1074,Africa
+1272,kwan1273,kwangari,gm,"-17,9026",19256,1124,Africa
+1582,kwan1276,Kwanja,gm,"6,30293","11,6931",1087,Africa
+1646,kway1241,Eciruuri,gm,"-1,80737","33,71",1171,Africa
+1291,kwes1244,kwezo,gm,"-5,60445","18,5759",802,Africa
+695,lako1244,dida,aa,"5,86012","-5,40633",120,Africa
+760,lama1275,lama,aa,"8,66954","0,833293",510,Africa
+804,lamn1239,nsoʼ,aa,"6,39743","11,0684",1122,Africa
+923,lang1320,Langi,ph,"-4,71413","35,9517",1353,Africa
+1259,lega1249,lega-shabunda,gm,"-3,83196","27,1424",672,Africa
+1540,legb1242,Leggbo,gm,"6,02645","7,98385",105,Africa
+441,lele1264,LELEMI,upsid,"7,34549","0,50746",464,Africa
+1338,leng1258,Lengola,gm,"-1,95874","25,3343",470,Africa
+899,liji1238,Jili,ph,"8,52193","8,35562",252,Africa
+1334,lika1243,Lika,gm,"2,13777","27,6088",633,Africa
+1260,limb1268,limbum (southern),gm,"6,58608","10,9802",1232,Africa
+768,ling1263,lingala,aa,"1,40324","19,7829",389,Africa
+1541,logb1245,Logba,gm,"6,92838","0,43068",176,Africa
+1278,long1387,longto,gm,"8,33313","13,0568",420,Africa
+928,luch1239,Lucazi,ph,"-14,0648","22,2437",1042,Africa
+769,lukp1238,lokpa,aa,"9,51949","1,66954",377,Africa
+927,lund1266,Lunda,ph,"-11,1793","23,8662",1252,Africa
+146,luva1239,Luvale,spa,"-13,5382","22,2924",1053,Africa
+890,luya1241,Louyi,ph,"-15,01","22,67",1024,Africa
+1240,lyel1241,Lele (Lyélé),ph,"12,4305","-2,59229",262,Africa
+714,maas1239,fulfulde,aa,"11,1324","-3,64763",293,Africa
+1283,mach1266,machame,gm,"-3,29385","37,0703",1038,Africa
+1284,mada1282,mada,gm,"9,02294","8,34119",463,Africa
+783,maka1304,mekaa,aa,"4,15471","13,0789",719,Africa
+1007,mako1251,Shimakonde,ph,"-10,9906","39,5133",66,Africa
+786,mama1271,minyanka,aa,"12,4871","-5,28245",304,Africa
+1054,mamb1294,Mambay; Mambai,ph,"9,6121","14,0013",223,Africa
+1289,mamb1296,cilungu,gm,"-8,86817","31,2269",1332,Africa
+1327,mamp1244,Mampruli,gm,"10,3884","-0,74675",161,Africa
+1367,masa1299,Orusyan,gm,"1,05906","34,2829",1665,Africa
+1266,matu1259,matuumbi,gm,"-8,53734","39,0409",305,Africa
+1488,mayo1261,Mayogo,gm,"2,79827","27,8282",817,Africa
+458,mbaa1245,MBA-NE,upsid,"1,06885",25143,455,Africa
+1502,mbal1255,Mbalanhu,gm,-19593,16617,1093,Africa
+1285,mbee1249,mbe,gm,"6,57067","8,82998",149,Africa
+1599,mbee1250,Mbe,gm,"6,25838","11,0906",830,Africa
+1558,mboc1235,Mbo (Ekanang),gm,"5,13981","9,92766",828,Africa
+1270,mbuk1240,mbukushu,gm,"-17,6827","22,5026",1003,Africa
+455,mbum1254,MBUM,upsid,"7,5789","14,2722",794,Africa
+1619,mbuu1238,Ajumbu,gm,"6,53792","10,2556",760,Africa
+940,medu1238,Medumba,ph,"5,10901","10,6118",1251,Africa
+1641,meru1245,Kimeru,gm,"0,26484","37,7396",1262,Africa
+1601,mfum1238,Mfumte,gm,"6,6","10,936386",775,Africa
+1596,mmaa1238,Numala,gm,"4,52188","11,0599",536,Africa
+1322,mman1238,Mmani,gm,NA,NA,NA,Africa
+942,mmen1238,Mmen,ph,"6,43213","10,2541",1289,Africa
+1644,moch1256,Kimochi,gm,"-3,33743","37,3357",896,Africa
+1625,mogh1246,Moghamo,gm,NA,NA,NA,Africa
+1626,mokp1239,Mokpwe,gm,"4,24178","9,23887",2169,Africa
+1277,mong1338,mongo-nkundu,gm,"-1,54228","20,4259",416,Africa
+1344,mono1269,Mono,gm,"8,78372","14,2254",240,Africa
+1143,mono1270,Mono,ph,"4,57915","19,8264",556,Africa
+789,moss1236,moore,aa,"10,4524","-1,17278",306,Africa
+945,mpon1254,Mpumpun,ph,"3,14015",14866,589,Africa
+1343,mund1325,Mundang,gm,"9,83195","14,4751",320,Africa
+780,mund1326,mündü,aa,"4,22755","29,9967",857,Africa
+791,mund1327,mundani,aa,"5,68073","9,91533",1685,Africa
+1618,mund1328,Mundabli,gm,"6,59969","10,2704",716,Africa
+946,mung1266,Mungaka,ph,"5,89752","10,0294",1386,Africa
+947,mvum1238,Mvumbo,ph,NA,NA,NA,Africa
+1341,mwal1237,Mwali,gm,"-12,3164",43741,491,Africa
+1448,mwan1247,Kimwani,gm,"-12,5821","40,4601",2,Africa
+1263,myen1241,myene,gm,"-1,48741","9,50247",21,Africa
+795,nafa1258,nafaanra,aa,"8,00522","-2,51001",304,Africa
+956,naki1238,Naki,ph,"6,62784","10,2378",669,Africa
+1413,nate1242,Nateni,gm,"10,5191","1,21879",336,Africa
+796,nawd1238,nawdm,aa,"7,17037","0,58553",334,Africa
+1660,nawu1242,Nawuri,gm,"8,45116","0,04947",139,Africa
+1600,ncan1245,Nchane,gm,"6,50696","10,5312",1145,Africa
+1348,ndai1238,Galke,gm,"8,09039","14,2888",776,Africa
+1471,ndal1241,Chindali,gm,"-9,88948","33,6118",1057,Africa
+1611,ndam1239,Ndamba,gm,"-8,40485","36,0271",294,Africa
+950,ndem1249,Ndemli,ph,"4,58061","10,2197",60,Africa
+1436,ndog1248,Ndogo,gm,"7,73028","27,5588",458,Africa
+1269,ndon1254,ndonga,gm,"-17,6417","19,1631",1163,Africa
+487,ndut1239,NDUT,upsid,14925,"-16,9811",32,Africa
+1547,ndzw1235,"Comorian, Ndzwani",gm,"-12,2123","44,3709",598,Africa
+718,ngan1299,gangam,aa,"10,2523","0,70509",152,Africa
+1504,ngan1300,Ngandjera,gm,"-16,6359","21,1928",1071,Africa
+1531,ngaz1238,Shindazidja,gm,"-11,6129","43,36",284,Africa
+800,ngba1285,ngbaka,aa,"2,98887",18994,341,Africa
+936,ngem1255,Ngemba,ph,"5,97864","10,1469",1396,Africa
+1628,ngie1241,Ngiemboon,gm,"5,56777","10,1266",1769,Africa
+963,ngom1271,Ngombale,ph,"5,70306","10,1446",1700,Africa
+1411,ngom1272,Ngomba,gm,"5,63067",10237,1475,Africa
+959,ngos1238,Ngishe,ph,"6,04616","9,83193",1254,Africa
+1286,ngwe1238,ngwe,gm,"5,49787","9,9028",1619,Africa
+1623,niel1243,Lwaa,gm,"9,70362","17,81346",409,Africa
+1254,nige1253,fulfulde (NGA),gm,"10,9972","11,1188",394,Africa
+774,nige1255,mambila,aa,"6,69736","11,3161",1342,Africa
+1371,njeb1242,Nzɛbi,gm,"-2,18115","12,7063",719,Africa
+1602,njye1238,Njem,gm,"2,30483","14,1175",542,Africa
+1455,nkon1248,Nkonya,gm,"7,20316","0,3209",75,Africa
+798,noma1260,nɔmaa,aa,"4,5893","10,9157",537,Africa
+492,noon1243,NONI,upsid,"6,37256","10,5707",1324,Africa
+749,nort2765,kisiei,aa,"8,7283","-10,4063",427,Africa
+801,nort2774,ngbandi,aa,"3,56357","21,85251",456,Africa
+719,nort2775,gbaya,aa,"5,9503","15,2569",913,Africa
+689,nort2780,dagara,aa,"11,0441","-3,0124",308,Africa
+797,nort2784,nʋni,aa,12131,"-2,98206",260,Africa
+835,nort2787,toussian,aa,11133,"-4,88274",424,Africa
+1491,nort2795,Ndebele,gm,"-20,2513","27,4096",1192,Africa
+725,nort2810,grebo,aa,"5,17103","-8,1409",193,Africa
+1264,ntch1242,N'cam,gm,"9,23971","0,599275",302,Africa
+1662,ntom1248,Bokala-Nkole,gm,"-1,99062",18265,336,Africa
+478,nucl1240,MUMUYE,upsid,"8,90347","11,71545",608,Africa
+138,nucl1347,Wolof,spa,"15,2534",-15383,43,Africa
+2192,nucl1417,Igbo,uz,"4,62705","7,23441",404,Africa
+671,nucl1418,bassa,aa,"7,27501",-11543,60,Africa
+1629,nugu1242,Nugunu,gm,"4,63103","11,1837",523,Africa
+806,nupe1254,nupe,aa,"9,18404","5,40031",152,Africa
+803,nyab1255,niaboua,aa,"6,87615","-6,84428",331,Africa
+970,nyam1276,Kinyamwezi,ph,"-5,08559","32,94452",1277,Africa
+1392,nyam1277,Kinyambo,gm,"-1,6096","30,9156",1549,Africa
+990,nyan1307,Runyankore,ph,"-0,46364",30548,1428,Africa
+1447,nyol1238,Nyole,gm,"0,88072","33,9181",1049,Africa
+1181,nyon1241,Bali-Kumbat,ph,"7,274185","11,061485",1183,Africa
+1399,nzim1238,Nzema,gm,"5,1785","-2,81123",73,Africa
+972,obol1243,Obolo,ph,"4,62851","7,81985",174,Africa
+507,ogbi1239,OGBIA,upsid,"4,75352","6,34034",153,Africa
+1382,okoo1245,Oko,gm,NA,NA,NA,Africa
+975,okuu1243,Oku,ph,"6,23712","10,5096",2097,Africa
+929,orok1266,Lukundu,ph,"4,89504","9,15209",1292,Africa
+1070,pagi1243,Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete,ph,"3,15636","22,1212",534,Africa
+1324,palo1243,Ndut-Falor,gm,"14,8628","-16,9557",103,Africa
+1633,pana1294,Pana,gm,NA,NA,NA,Africa
+1388,pang1287,Pangwa,gm,"-9,96782","34,8039",1110,Africa
+1632,piny1238,Pinyin,gm,"5,7991","10,0682",1915,Africa
+810,pula1262,pular,aa,"12,1826","-12,7338",108,Africa
+809,pula1263,pulaar,aa,"13,8694","-13,4482",46,Africa
+1546,rong1268,Ronga,gm,"-26,7329","32,6167",48,Africa
+989,rund1242,Rundi,ph,"-1,44174","31,3191",1582,Africa
+1489,saam1283,Lusaamia,gm,"0,3652","34,0335",1142,Africa
+992,samb1305,Samba Leko,ph,"8,19236","11,7366",1042,Africa
+813,sang1328,sango,aa,"6,78584","20,1702",528,Africa
+1492,saxw1241,"Saxwe, Gbe",gm,"6,58269","1,92015",66,Africa
+1326,sekp1241,Likpe,gm,"7,16751","0,5886",334,Africa
+1330,sele1249,Sele,gm,"7,17462","0,42458",312,Africa
+815,sena1262,senoufo,aa,"10,4987","-5,28216",324,Africa
+816,sere1260,sereer,aa,"13,8941","-16,3916",14,Africa
+1321,sher1258,Sherbro,gm,"7,77585","-12,7405",12,Africa
+1008,shon1251,Shona,ph,"-17,20849","29,75725",1197,Africa
+817,siss1242,sissala,aa,"11,0916","-2,38217",294,Africa
+1320,siwu1238,Siwu,gm,"7,23811","0,44362",320,Africa
+688,sout2789,dagaare,aa,"10,4226","-2,52265",351,Africa
+1548,sout2790,Birifor,gm,"9,2873","-2,72672",172,Africa
+1490,sout2795,Nouni,gm,"11,5186","-2,14385",334,Africa
+1017,sout2807,Sesotho,ph,"-30,4445","27,8951",1652,Africa
+1645,suba1252,Kisimbiti,gm,"-1,103296",34268,1273,Africa
+1202,subi1246,Subiya,ph,"-17,5696","24,8867",909,Africa
+1317,suga1248,Nizaa,gm,"7,12906","12,3779",1226,Africa
+1568,suku1261,Sukuma,gm,"-3,16082","32,8765",1176,Africa
+1639,sumb1240,Sisumbwa,gm,"-3,47335","31,9457",1238,Africa
+145,swah1253,Swahili,spa,"-8,25605",37624,219,Africa
+1041,tagw1240,Tagwana,ph,"8,67053","-5,17372",296,Africa
+586,tamp1252,TAMPULMA,upsid,"9,75577","-1,35467",145,Africa
+826,taro1263,tarok,aa,"8,98356","10,0288",234,Africa
+1386,teee1242,Tee,gm,"4,73213","7,37553",171,Africa
+827,teen1242,téén,aa,"9,84556","-3,71183",347,Africa
+415,teke1280,TEKE,upsid,"-2,27122","14,4407",581,Africa
+829,temm1241,tem,aa,8967,1136,412,Africa
+757,tepo1239,kroumen tépo,aa,"5,16267","-7,66346",152,Africa
+1528,tiag1235,"Aizi, Tiagba",gm,"5,28022","-4,62352",74,Africa
+1630,tigo1236,Mbembe,gm,"6,983995","10,70849",265,Africa
+832,tika1246,tikar,aa,"5,87004","11,6104",779,Africa
+2213,timn1235,Temne,uz,"8,90294","-12,3331",44,Africa
+1331,tivv1240,Tiv,gm,"6,88039","9,26287",258,Africa
+830,tofi1235,tɔfin,aa,"6,51774","2,43226",48,Africa
+1328,tong1318,Shanjo,gm,"-17,422325","27,103495",960,Africa
+1203,tote1238,Totela,ph,"-16,9575","24,3751",991,Africa
+1441,tsot1241,Lutsootso,gm,"0,2975","34,6961",1421,Africa
+1063,tsuv1239,Tsuvadi; Avadi; Abadi; Evadi; Kamberi; Ibeto,ph,"10,8421","5,22095",244,Africa
+1573,tuki1240,Tuki,gm,"4,64348","11,5353",563,Africa
+1265,tune1261,Nen,gm,"4,75","10,67",415,Africa
+1649,tuni1251,Tounia,gm,"9,42506","18,2059",316,Africa
+1345,tupu1244,Tupuri,gm,"10,0144","14,8697",354,Africa
+1268,umbu1257,umbundu,gm,"-12,4763","14,4148",1241,Africa
+836,vagl1239,vagala,aa,"9,33848","-2,31333",304,Africa
+661,veng1238,babungo,aa,"6,11403","10,4137",1637,Africa
+837,vute1244,vute,aa,"6,13603","11,8839",897,Africa
+838,waam1244,waama,aa,"10,5956","1,65318",465,Africa
+290,wame1240,KONYAGI,upsid,"12,5421",-13177,83,Africa
+1647,wawa1246,Wawa,gm,"6,68974","11,7802",1218,Africa
+1415,wehh1238,Weh,gm,"6,46164",10121,1193,Africa
+840,weno1238,wobé,aa,"7,40391","-7,24617",278,Africa
+766,west2450,limba,aa,"9,52392","-12,3138",69,Africa
+715,west2454,fulfulde,aa,"14,2471","-0,52004",282,Africa
+1280,west2456,western xwla,gm,"6,33455","2,03904",64,Africa
+1308,west2458,"Banda, West Central",gm,"6,81435","24,1012",609,Africa
+743,west2466,karaboro,aa,"10,6298","-4,76482",297,Africa
+1340,wong1247,Wongo,gm,"-5,73837","20,5054",590,Africa
+1319,xhos1239,Xhosa,gm,"-31,0389","28,0769",1932,Africa
+1279,xwel1235,xwela,gm,"6,41342","2,02985",66,Africa
+1288,yala1263,yala,gm,"6,73852","8,60748",122,Africa
+842,yamb1251,yamba,aa,"6,535505","11,07711",1243,Africa
+843,yamb1252,yambɛta,aa,"4,83615","10,9369",616,Africa
+1335,yans1239,Yanzi,gm,"-3,8231","18,2341",352,Africa
+1267,yaoo1241,yao,gm,"-13,6119","35,2387",1115,Africa
+1110,yekh1238,Etsako,ph,"7,10204","6,44919",303,Africa
+1655,yemb1246,Yemba,gm,"5,47421","10,0214",1431,Africa
+853,yeyi1239,Yeyi,ph,"-18,9178","23,6088",954,Africa
+846,yomm1242,yom,aa,"9,87186","1,81099",382,Africa
+848,yoru1245,yorouba,aa,"7,15345","3,67225",117,Africa
+849,zand1248,zande,aa,"4,62047","26,7157",646,Africa
+1640,zinz1238,Luzinza,gm,"-2,64132","32,1755",1222,Africa
+147,zulu1248,Zulu,spa,"-25,3305","31,3512",1028,Africa
+1014,aheu1239,So,ph,"17,7655",104229,157,Eurasia
+2201,besi1244,Mah Meri,uz,2717,101676,20,Eurasia
+1065,blan1242,Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi',ph,"22,0092","99,7405",1341,Eurasia
+2576,bodo1267,Gutob,ea,"18,3857",82771,1190,Eurasia
+1101,bond1245,Remo,ph,"19,1512","83,8141",90,Eurasia
+271,carn1240,NICOBARESE,upsid,"9,18853","92,7671",60,Eurasia
+2597,cent1989,Central Khmer,ea,"12,0515",105015,40,Eurasia
+1773,cent1990,Nicobarese,ra,"7,94812","93,3921",153,Eurasia
+910,chon1284,Chong,ph,"12,5218",102514,18,Eurasia
+861,chra1242,Chrau,ph,"10,8021",107293,190,Eurasia
+2435,gata1239,Gtaʔ,ea,"18,6076",82984,1148,Eurasia
+2359,hooo1248,Ho,ea,"23,9596","87,1188",122,Eurasia
+2567,jahh1242,Jah-Hut,ea,"3,67619",102291,76,Eurasia
+1089,juan1238,Juang,ph,"21,2606","85,5845",350,Eurasia
+909,khar1287,Kharia,ph,"22,3571","84,3922",353,Eurasia
+12,khas1269,Khasi,spa,24977,"91,9998",16,Eurasia
+412,khmu1256,KHMU?,upsid,"20,2463",101671,970,Eurasia
+425,koho1244,SRE,upsid,"11,6444",108057,896,Eurasia
+2528,kork1243,Korku,ea,"21,8358","77,5541",495,Eurasia
+916,kuay1244,Kuay,ph,NA,NA,NA,Eurasia
+259,lave1249,BRAO,upsid,"14,5994",107008,657,Eurasia
+986,mall1246,Mal,ph,19273,101204,998,Eurasia
+2295,mund1320,Mundari,ea,"25,0391","87,1792",212,Eurasia
+965,nort2684,Northern Khmer,ph,"14,4674",103863,213,Eurasia
+1028,nucl1290,Wa,ph,"23,1024",99108,1517,Eurasia
+274,nyah1250,NYAH KUR,upsid,"15,8909",101515,549,Eurasia
+971,nyeu1238,Nyeu,ph,"14,8817","104,33",136,Eurasia
+511,paco1243,PACOH,upsid,"16,3353",107094,908,Eurasia
+520,para1301,PARAUK,upsid,"22,8658",99375,1878,Eurasia
+2364,pare1266,Gorum,ea,19075,"83,9723",631,Eurasia
+985,phai1238,Pray,ph,"19,0383",101218,754,Eurasia
+2627,pnar1238,Pnar,ea,"24,8237","92,2628",13,Eurasia
+2386,puoc1238,Ksingmul,ea,"20,8862",103931,477,Eurasia
+2550,sant1410,Santali,ea,"25,0317","87,8185",27,Eurasia
+13,seda1262,Sedang,spa,"14,7793",108027,1274,Eurasia
+1003,seme1247,Semelai,ph,"2,82799",102806,61,Eurasia
+2526,sora1254,Sora,ea,"19,1213","84,19",812,Eurasia
+2563,temi1246,Temiar,ea,4974,101438,1349,Eurasia
+2233,viet1252,Vietnamese,uz,"20,681188","105,774071",13,Eurasia
+262,west2397,BRUU,upsid,"16,4906",104754,145,Eurasia
+1093,achi1257,Acehnese,ph,"3,90757","96,6032",30,Papunesia
+41,adze1240,Adzera,spa,"-6,39394",146294,238,Papunesia
+1095,akla1241,Aklan,ph,"11,5543",122354,146,Papunesia
+1684,ambo1250,Ambon Malay,gm,"-3,71342",128184,247,Papunesia
+1228,anei1239,Aneityum; Anejom̃,ph,"-20,1864",169825,293,Papunesia
+2373,atay1247,Atayal,ea,"24,5209",121388,1891,Papunesia
+1693,bali1278,Balinese,gm,"-8,35714",115075,1570,Papunesia
+1685,band1353,Banda Malay,gm,"-4,55565",129905,102,Papunesia
+1185,bari1286,Bariai,ph,"-5,5087",148666,477,Papunesia
+1099,bata1289,Toba-Batak,ph,"2,35498","99,1761",1079,Papunesia
+1665,bata1293,Karo Batak,gm,"2,12787","98,2517",12,Papunesia
+1669,bela1260,Belait,gm,"4,96207",114933,1,Papunesia
+1191,biak1248,Biak,ph,"-0,9523",135879,62,Papunesia
+1694,bugi1244,Bugis,gm,"-4,47",119977,93,Papunesia
+1676,buol1237,Buol,gm,"0,97727",121519,131,Papunesia
+1692,cebu1242,Cebuano,gm,"8,38799",124367,383,Papunesia
+1695,cent2087,Bikol (Bicolano),gm,"13,7574",123403,162,Papunesia
+2208,cent2092,Central Sama,uz,"7,004574","118,455978",66,Papunesia
+38,cham1312,Chamorro,spa,"13,438011","144,74474",103,Papunesia
+2222,coco1260,Cocos Malay,uz,"-12,193342","96,833679",NA,Papunesia
+981,dobu1241,Dobu,ph,"-9,63239",150825,11,Papunesia
+1085,dupa1235,Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta,ph,"17,3748",122188,713,Papunesia
+1037,east2440,East Makian,ph,"0,07337",127423,75,Papunesia
+1671,east2563,Phan Rang Cham (Eastern Cham),gm,"11,2853","108,49",10,Eurasia
+328,fiji1243,FIJIAN,upsid,-18,"178,33",110,Papunesia
+1212,fili1244,Filipino,ph,12265,123464,36,Papunesia
+334,fwai1237,PO-AI,upsid,"-20,6873",164901,272,Papunesia
+1052,gayo1244,Gayo,ph,"4,3733","97,3456",1220,Papunesia
+43,hawa1245,Hawaiian,spa,"19,6297","-155,43",2013,Papunesia
+1696,hili1240,Hiligaynon,gm,"10,4018",122974,116,Papunesia
+1211,hoav1238,Hoava,ph,"-8,19679",157595,162,Papunesia
+39,iaai1238,Iai,spa,"-20,6301","166,59",1,Papunesia
+364,iban1264,IBAN,upsid,"2,09041",112934,125,Papunesia
+1187,idaa1241,Ida''an',ph,"5,29059",118515,144,Papunesia
+1117,ilok1237,Ilocano,ph,"15,9361",120993,278,Papunesia
+1144,indo1316,Indonesian,ph,"-7,33458",109716,456,Papunesia
+247,indo1317,SAMA,upsid,"-3,68664",122253,78,Papunesia
+369,irar1238,IRARUTU,upsid,"-2,94438",133586,1,Papunesia
+376,ivat1242,IVATAN,upsid,"20,3848",121975,65,Eurasia
+1675,java1254,Javanese,gm,"-0,572307",110885,61,Papunesia
+40,kali1299,Kaliai,spa,NA,NA,NA,Papunesia
+1679,kamb1299,Kambera,gm,"-9,88447",120235,324,Papunesia
+2225,keda1250,Kedayan,uz,NA,NA,NA,Papunesia
+1173,kela1255,Kela,ph,"-7,47103",147173,133,Papunesia
+1215,keoo1238,Ke''o; Kéo',ph,"-8,8704",121256,597,Papunesia
+1668,kima1244,Kimaragang,gm,"6,61982","116,96",226,Papunesia
+913,koko1269,Kokota,ph,"-8,16481",159191,26,Papunesia
+1687,kupa1239,Kupang Malay,gm,"-10,2526","123,63",494,Papunesia
+436,kwai1243,KWAIO,upsid,"-8,93744",160965,846,Papunesia
+1688,lara1260,Larantuka Malay,gm,"-8,4746","122,7619",97,Papunesia
+584,lena1238,LENAKEL,upsid,"-19,4763",169261,243,Papunesia
+1681,leti1246,Leti,gm,"-8,19808",127674,300,Papunesia
+1122,loni1238,Loniu,ph,"-2,06124","147,35",12,Papunesia
+2202,mafe1237,Mavea,uz,"-15,4316",167241,1,Papunesia
+1677,maka1311,Makassar,gm,"-5,65551",119838,1,Papunesia
+1686,mala1481,Manado Malay,gm,"1,48099",124843,20,Papunesia
+1051,malo1243,Tamambo; Malo,ph,"-15,6835","167,16",72,Papunesia
+933,mana1295,Manam,ph,"-4,07921",145033,1641,Papunesia
+42,maor1246,Maori,spa,"-38,2881",176541,497,Papunesia
+471,mara1404,MARANAO,upsid,"7,79414",124175,974,Papunesia
+988,matb1237,Matbat,ph,"-1,8801",130075,183,Papunesia
+1698,mina1268,Minangkabau,gm,"4,17","96,25",318,Papunesia
+943,moke1242,Moken,ph,"10,1474","98,6765",NA,Eurasia
+1672,mokl1243,Moklen,gm,"8,16761","98,3176",9,Eurasia
+1678,mori1268,Mori Bawah,gm,"-2,56016","121,37",496,Papunesia
+948,motl1237,Mwotlap,ph,"-13,655015","167,706277",80,Papunesia
+1214,muna1247,Muna,ph,"-5,40419",122541,62,Papunesia
+557,natu1246,NAMBAKAENGO,upsid,"-10,6771",165835,1,Papunesia
+1213,ngad1261,Ngad''a; Ngadha',ph,"-8,79508",120976,1154,Papunesia
+1674,nias1242,Nias,gm,"0,90691","97,4961",5,Papunesia
+1689,nort2828,North Maluku Malay,gm,"-0,86437",128323,2,Papunesia
+1205,nort2845,North Marquesan,ph,"-8,89412",-140108,424,Papunesia
+1691,nucl1460,Madurese,gm,-7,113,109,Papunesia
+2397,paiw1248,Paiwan,ea,"22,3271",120806,589,Papunesia
+977,pala1344,Palauan,ph,"7,34138","134,476678",1,Papunesia
+1697,pamp1243,Kapampangan,gm,"14,9603",120502,9,Papunesia
+1699,pang1290,Pagasinan,gm,"15,9377",120365,20,Papunesia
+1172,pate1247,Patep,ph,"-6,91988",146639,1137,Papunesia
+1171,peta1245,Petats,ph,"-5,34068",154593,307,Papunesia
+31,plat1254,Malagasy,spa,"-19,5907","47,1211",1733,Africa
+519,pohn1238,POHNPEIAN,upsid,"6,87212",158223,586,Papunesia
+311,ruka1240,RUKAI,upsid,"22,7738",120844,1589,Papunesia
+34,saba1265,Sa'ban,spa,"3,58723",115664,983,Papunesia
+997,sasa1249,Sasak,ph,"-8,58349",116284,304,Papunesia
+1018,sata1237,Satawalese,ph,"7,36084",147038,1,Papunesia
+1002,seim1238,Seimat,ph,"-1,5297",145074,NA,Papunesia
+1062,sela1259,Selaru,ph,"-8,18376",130961,1,Papunesia
+1010,siar1238,Siar-Lak,ph,"-4,62059",152892,604,Papunesia
+1015,sout2856,South Efate,ph,"-17,7006",168377,147,Papunesia
+1061,sout2895,Southern Nuautl,ph,"-3,23411",129148,107,Papunesia
+1667,sout2918,Southern Sama,gm,"4,755836","119,483887",10,Papunesia
+2223,stan1306,Standard Malay,uz,"3,08896",101699,72,Eurasia
+35,sund1252,Sundanese,spa,"-6,89708",107106,564,Papunesia
+1174,surs1246,Sursurunga,ph,"-3,99078",152768,617,Papunesia
+1666,taga1270,Tagalog,gm,"14,06",121747,138,Papunesia
+1001,taro1264,Sedik,ph,"23,9032",121358,1579,Papunesia
+1066,tata1257,Tatana''; Tatanaq; Tatana',ph,"5,49808",115553,44,Papunesia
+2212,taus1251,Tausug (Suluk),uz,"5,12236","118,88",179,Papunesia
+1700,teng1272,Tengger,gm,"-7,89069",113037,978,Papunesia
+1680,tetu1245,Tetun,gm,"-9,11217",125528,286,Papunesia
+572,tiga1245,TIGAK,upsid,"-2,70951",150893,6,Papunesia
+1170,tinp1237,Tinputz,ph,"-5,58358",154972,139,Papunesia
+578,tiru1241,TIRURAY,upsid,"6,77321",124127,477,Papunesia
+1086,tong1325,Tongan; Tonga,ph,"-21,17","-175,25",1,Papunesia
+593,tsou1248,TSOU,upsid,23216,120787,691,Papunesia
+1152,tuka1248,Tukang Besi,ph,"-5,30994",123578,205,Papunesia
+529,waim1251,RORO,upsid,"-8,67145",146544,27,Papunesia
+1081,west2560,"Bajau, West Coast; Land Bajaw; West Coast Bajao",ph,"6,00631",116124,30,Papunesia
+29,west2650,Cham,spa,"12,4771",104026,26,Eurasia
+1032,woge1237,Wogeo,ph,"-3,20238",144089,123,Papunesia
+1024,yape1248,Yapese,ph,"9,55811",138125,15,Papunesia
+2145,cent2142,Aymara,saphon,-17,"-68,5",4204,South America
+1852,jaqa1244,Jaqaru,saphon,"-12,8823","-75,8958",2670,South America
+267,qaqe1238,BAINING,upsid,"-4,45258",151702,1085,Papunesia
+1120,awac1239,Awa Pit,ph,"1,21652","-78,3401",478,South America
+1854,chac1249,Cha'palaa,saphon,"0,71489","-79,0508",168,South America
+1222,colo1256,Colorado; Tsafiki,ph,"-0,21181","-79,2347",480,South America
+1855,guam1248,Guambiano,saphon,"2,55849",-76582,1782,South America
+2381,basq1250,Zuberoan Basque,ea,NA,NA,NA,Eurasia
+1857,bora1263,Bora,saphon,"-2,91467","-68,9093",101,South America
+1859,muin1242,Muinane,saphon,"-0,8652","-72,4249",101,South America
+1164,aman1265,Amanab,ph,"-3,51516",141178,357,Papunesia
+892,imon1245,Imonda,ph,"-3,31228",141171,341,Papunesia
+619,wari1266,WARIS,upsid,-3139,140931,608,Papunesia
+1955,boro1282,Borôro,saphon,"-16,6029","-55,2004",269,South America
+1975,umot1240,Umotína,saphon,"-15,5929","-57,4192",138,South America
+2630,buna1275,Bunuba,er,"-17,8297",125631,261,Australia
+2631,goon1238,Gooniyandi,er,"-18,4073",126351,304,Australia
+269,cadd1256,CADDO,upsid,"35,1826","-98,2634",81,North America
+74,wich1260,Wichita,spa,"35,0665","-98,1831",378,North America
+1861,chay1248,Shawi,saphon,"-5,63764","-76,8252",940,South America
+1860,jebe1250,Shiwilu,saphon,"-5,40317","-76,4103",326,South America
+1873,akaw1239,Ingarikó,saphon,"6,16277",-60862,733,South America
+1862,akur1238,Akurio,saphon,"3,19607","-55,6294",190,South America
+1863,apal1257,Apalaí,saphon,"1,49792","-54,7457",300,South America
+1865,baka1277,Bakairí,saphon,"-14,2628","-54,7034",444,South America
+1870,cari1279,Carijona,saphon,"1,21894","-72,0664",293,South America
+1880,enap1235,Panare,saphon,"6,95035","-65,8483",423,South America
+1867,gali1262,Carib,saphon,"5,83772","-56,8323",1,South America
+1871,hixk1239,Hixkaryána,saphon,"-0,16265","-58,80153",200,South America
+1872,ikpe1245,Ikpeng,saphon,"-11,37822","-53,49553",243,South America
+1874,japr1238,Japreria,saphon,"10,5523","-72,7101",696,South America
+1875,kaxu1237,Kaxuiâna,saphon,"2,17138","-55,9101",336,South America
+1876,kuik1246,Kuikúro-Kalapálo,saphon,"-12,3035","-53,2261",242,South America
+1877,macu1259,Macushi,saphon,"4,31861","-60,2209",876,South America
+1878,mapo1246,Mapoyo,saphon,"5,96952","-67,2581",720,South America
+1879,maqu1238,Yekwana,saphon,"4,70705","-64,3877",1647,South America
+1864,para1310,"Arára, Pará",saphon,"-3,71263","-53,0657",97,South America
+1883,pemo1245,Pémono,saphon,5248,-66082,925,South America
+1881,pemo1248,Pemon,saphon,"4,97031","-61,4033",968,South America
+1884,trio1238,Trió,saphon,"2,53616","-55,7599",596,South America
+1885,waim1253,Waimiri-Atroarí,saphon,"-0,61832","-60,4259",100,South America
+1886,waiw1244,Waiwai,saphon,"1,50881","-59,1417",593,South America
+1031,waya1269,Wayana,ph,"2,77537","-54,4429",283,South America
+1888,yaba1248,Yabarana,saphon,"5,32692",-66276,1194,South America
+2153,yukp1241,Yukpa,saphon,"9,67534","-73,0557",1800,South America
+1425,arin1244,Aringa,gm,"3,56143","31,3071",818,Africa
+660,avok1242,avokaya,aa,"4,38639","29,9379",837,Africa
+1469,bagi1246,Bagirmi,gm,"11,52392","14,769495",295,Africa
+1249,baka1274,baka,gm,"4,65943","29,59",876,Africa
+1196,bong1285,Bongo,ph,"7,4145","27,9918",458,Africa
+878,furu1242,Furu,ph,4485,"20,6448",435,Africa
+738,jurm1239,jur mödö,aa,"6,03321",29974,481,Africa
+1339,keli1248,Kaliko,gm,"3,56039",30556,1172,Africa
+762,lend1245,lendu,aa,"2,1898","30,6794",1828,Africa
+1636,lese1243,Balese,gm,"1,3","29,3",916,Africa
+1294,logo1259,Logo,gm,"3,32608","29,8866",876,Africa
+151,lugb1240,Logbara,spa,"3,02245","30,8642",1213,Africa
+807,madi1260,pandikeri,aa,"3,62499","31,8471",1030,Africa
+778,mang1394,mangbetu,aa,"2,5511","27,0712",623,Africa
+1474,mbay1241,Mbay,gm,"8,23066","15,7328",457,Africa
+1424,moro1284,Morokodo,gm,"5,5103","30,0229",569,Africa
+1293,moru1253,Moru,gm,"5,1232","30,3287",637,Africa
+799,ngam1268,ngambai,aa,"8,57051",15414,457,Africa
+1470,ngit1239,Ngiti,gm,"1,30455","30,2242",1533,Africa
+1314,olub1238,Lulubo,gm,"4,6242","31,9103",713,Africa
+1292,sout2828,Madi,gm,"2,8735","31,25",692,Africa
+643,yulu1243,YULU,upsid,"8,04124","23,6166",723,Africa
+1889,orow1243,Oro Win,saphon,-10737,"-64,0299",432,South America
+1237,wari1268,Wari; Wari''; Wariʔ; Oro Nao',ph,"-10,69948","-64,56152",185,South America
+1096,arhu1242,Ika,ph,"10,7018","-73,6363",3675,South America
+1892,bari1297,Barí,saphon,"9,08497","-72,9353",105,South America
+1897,bord1248,Border Kuna,saphon,"7,92993","-77,1664",373,South America
+268,brib1243,BRIBRI,upsid,"9,39794","-83,0539",623,North America
+1899,cent2150,Tunebo,saphon,"6,8867",-72097,607,South America
+1893,chib1270,Muisca,saphon,"6,24999","-74,1666",151,South America
+1894,chim1309,Chimila,saphon,"10,1902","-74,2559",189,South America
+1896,cogu1240,Kogi,saphon,"10,9485","-73,8043",1828,South America
+1898,mala1522,Damana,saphon,"10,9286","-73,4056",3549,South America
+512,pech1241,PAYA,upsid,"15,8033",-85558,274,North America
+987,rama1270,Rama,ph,"11,5007","-83,8571",4,North America
+525,quil1240,QUILEUTE,upsid,"47,9106",-124603,2,North America
+1901,embe1259,Emberá-Baudó,saphon,"5,2824","-76,32548",235,South America
+1902,embe1260,Emberá-Catío,saphon,"7,52721","-76,7476",69,South America
+1903,embe1262,Emberá-Chamí,saphon,"4,8791","-76,0749",1940,South America
+1905,epen1239,Epena,saphon,"4,25877","-77,3566",2,South America
+1904,nort2972,Northern Emberá,saphon,"7,12761",-77574,158,South America
+1900,woun1238,Woun Meu,saphon,"8,5",-78,81,South America
+1907,onaa1245,Chon,saphon,-54,"-68,5",91,South America
+1908,tehu1242,Tehuelche,saphon,"-47,5796","-68,3235",289,South America
+2412,alut1245,Alutor,ea,"60,3844",165653,9,Eurasia
+2362,chuk1273,Chukchi,ea,"68,6436",170045,19,Eurasia
+2297,itel1242,Itelmen,ea,"56,7798",156906,70,Eurasia
+427,kory1246,KORYAK,upsid,"63,8977",166695,175,Eurasia
+862,barb1263,Barbareño,ph,34462,-119699,457,North America
+90,kumi1248,Digueno,spa,32331,-116604,297,North America
+952,quec1382,Yuma,ph,"32,7859",-114599,50,North America
+300,darf1239,DAJU,upsid,"12,2598","25,3127",610,Africa
+457,dizi1235,DIZI,upsid,"6,1405","35,5763",2402,Africa
+1442,jams1239,"Jamsay, Dogon",gm,"14,1794","-2,57999",258,Africa
+699,toro1252,dogon,aa,"14,40749","-3,10006",284,Africa
+1701,abuj1237,Abujmaria,ra,NA,NA,NA,Eurasia
+1708,bada1257,Badaga,ra,"11,3094","76,5974",2025,Eurasia
+1190,bett1235,Betta Kurumba,ph,"11,6385","76,6064",947,Eurasia
+2290,brah1256,Brahui,ea,"28,5347","64,2991",2054,Eurasia
+2474,chen1255,Nyinpa Cone,ea,"15,8787","79,2534",159,Eurasia
+1777,duru1236,Parji,ra,"19,0534","82,4881",608,Eurasia
+1730,irul1243,Irula,ra,"12,70645","79,95209",35,Eurasia
+1739,jenn1240,Kattunaika,ra,"11,5041","76,5767",1812,Eurasia
+1743,koda1255,Kod̩agu,ra,"12,2443","75,9161",956,Eurasia
+1745,kond1295,Kon̩d̩a or Kubi,ra,"18,26754","82,93402",948,Eurasia
+1748,korr1238,Koraga,ra,"12,9163","75,2",88,Eurasia
+9,kota1263,Kota,spa,"11,4978","76,9387",1252,Eurasia
+1751,koya1251,Koya,ra,"17,6772","81,2096",99,Eurasia
+1752,kuii1252,Kui,ra,"19,2043","83,5859",476,Eurasia
+7,kuru1302,Kurukh,spa,"24,4644","86,4657",288,Eurasia
+920,kuvi1243,Kuvi,ph,"18,8832","83,7552",386,Eurasia
+2559,mala1464,Malayalam,ea,"9,59208","76,7651",116,Eurasia
+1746,mudh1235,Kon̩ekar Gadaba,ra,18276,83378,52,Eurasia
+1771,naik1250,Naiki,ra,NA,NA,NA,Eurasia
+868,nepa1253,Dhangar,ph,"26,72057","86,00255",65,Eurasia
+2445,nort2699,Kolami,ea,"20,1022","78,4934",257,Eurasia
+2277,nucl1305,Kannada,ea,"13,5878","76,1198",715,Eurasia
+1779,peng1244,Pengo,ra,"19,3435","83,6552",935,Eurasia
+2543,pott1240,Gadaba,ea,"18,5968","82,7586",935,Eurasia
+1799,ravu1237,Yerava,ra,"12,3231","75,6265",908,Eurasia
+2339,saur1249,Malto,ea,"24,8124","87,6432",111,Eurasia
+1058,tami1289,Tamil,ph,"10,520219","78,825989",104,Eurasia
+2387,telu1262,Telugu,ea,"16,4529","78,7024",427,Eurasia
+1793,toda1252,Toda,ra,"11,4184","77,0168",338,Eurasia
+2547,tulu1258,Tulu,ea,"12,8114","75,2651",22,Eurasia
+1796,ural1274,Urali,ra,"10,8519","76,8007",332,Eurasia
+2538,west2408,Muria Gondi,ea,"20,2384","80,7006",356,Eurasia
+1800,yeru1240,Yerukala,ra,"17,3702","81,9748",126,Eurasia
+2632,madn1237,Matngele,er,"-13,9479","130,6",137,Australia
+1616,gaam1241,Gaahmg,gm,"11,4674","33,9797",1051,Africa
+982,samo1303,Samo,ph,"-6,15496",142195,210,Papunesia
+61,aleu1260,Aleut,spa,"52,1228","-174,29",78,North America
+319,cent2128,YUPIK,upsid,"63,4308",-170272,12,Eurasia
+62,kala1399,Inuit,spa,"69,3761",-52864,336,North America
+2291,nauk1242,Naukan Yupik,ea,"65,5184",-171755,7,Eurasia
+1077,nort2943,Iñupiaq; Iñupiat; Inupiat; Inupiaq,ph,69582,"-143,77",355,North America
+333,furr1244,FUR,upsid,"12,0455","23,6401",867,Africa
+2645,gara1269,Garrwa,er,"-17,4504","137,72014",204,Australia
+2646,wany1247,Waanyi,er,"-18,6529",137608,391,Australia
+2648,erre1238,Erre,er,"-12,2839",132868,38,Australia
+2649,mang1382,Mengerrdji,er,"-12,2391",132973,111,Australia
+2650,urni1239,Urningangg,er,"-13,4766",133023,374,Australia
+58,kuni1267,Kunimaipa,spa,"-8,09371",146908,2184,Papunesia
+1661,anfi1235,Anfillo,gm,8568,34647,1541,Africa
+1478,benc1235,Bench,gm,"7,04682","35,7673",2097,Africa
+1197,boro1277,Boro,ph,"10,6596",35345,829,Africa
+343,dawr1236,KULLO,upsid,"6,95",37,1951,Africa
+1481,gamo1243,Gamo,gm,"6,27645","37,23808",1140,Africa
+394,kafa1242,KEFA,upsid,"7,34022","36,1718",1747,Africa
+1482,koor1239,Koorete,gm,"5,80545","37,8679",2361,Africa
+1364,wola1242,Welamo,gm,"6,32668","37,7537",1295,Africa
+1479,yems1235,Yemsa,gm,"7,79821","37,4412",2243,Africa
+1480,zays1236,Zayse,gm,NA,NA,NA,Africa
+1702,apuc1241,Andamanese,ra,12241,"92,7965",1,Papunesia
+1910,cuib1242,Cuiba,saphon,"6,19829","-69,8197",88,South America
+1911,guah1255,Guahibo,saphon,"5,81736","-68,9839",74,South America
+1912,guay1257,Guayabero,saphon,"2,8969",-71844,274,South America
+1913,maca1259,Macaguán,saphon,"6,34582","-71,2671",145,South America
+1914,abip1241,Abipon,saphon,-29,-61,53,South America
+1118,kadi1248,Kadiweu,ph,"-19,7222",-57582,90,South America
+1127,moco1246,Mocovi,ph,-28097,"-60,4145",53,South America
+1073,pila1245,Pilaga; Pilagá,ph,"-25,0058","-60,1537",100,South America
+1045,toba1269,Toba (Argentina),ph,"-24,40253","-60,4472866667",167,South America
+1475,gumu1244,Gumuz,gm,"11,05","35,93",886,Africa
+2651,anin1240,Anindilyakwa,er,"-13,99904","136,6415",74,Australia
+2662,djau1244,Jawoyn,er,"-14,1361",133002,301,Australia
+883,gunw1252,Gunwinggu,ph,"-12,3398",133358,230,Australia
+2652,ngal1292,Dalabon,er,"-13,9783",133936,167,Australia
+960,ngal1293,Ngalakan,ph,"-14,4281",134716,109,Australia
+2655,ngan1295,Ngandi,er,"-12,8448",134649,70,Australia
+2665,nung1290,Wubuy,er,"-14,2623",135753,1,Australia
+2663,remb1249,Rembarrnga,er,"-12,9608",134308,194,Australia
+2664,wara1290,Warray,er,"-13,0941",131236,145,Australia
+67,nort2938,Haida,spa,"54,004532","-132,079257",91,North America
+1920,amar1274,Amarakaeri,saphon,"-12,4931","-70,5533",268,South America
+1497,heib1243,Heiban,gm,"11,2908","30,5282",832,Africa
+1380,koal1240,Koalib,gm,"11,69648","30,47166",731,Africa
+465,moro1285,MORO,upsid,"10,9194","30,2138",743,Africa
+1374,otor1240,Otoro,gm,"11,1187",30573,820,Africa
+1499,shwa1239,Cwaya,gm,"11,2708","30,3533",705,Africa
+1375,tira1254,Tira,gm,"11,0963","30,8092",650,Africa
+1921,chol1284,Cholón,saphon,"-9,23129","-75,9621",743,South America
+2239,hmon1264,Hmong Njua,ea,"22,5638","101,95",1120,Eurasia
+20,iumi1238,Yao,spa,"20,83","101,17",1124,Eurasia
+888,sanm1287,"Huave, San Mateo del Mar",ph,"16,2129","-95,0077",2,North America
+2128,mini1256,"Huitoto, Minica",saphon,"-1,54535","-73,1107",107,South America
+2129,muru1274,"Huitoto, Murui",saphon,"-1,13669","-73,8331",137,South America
+2130,nonu1241,Nonuya,saphon,"-1,25","-72,5",109,South America
+2131,ocai1244,Ocaina,saphon,-2159,"-72,1422",100,South America
+1385,defa1248,Defaka,gm,"4,58451","7,50186",185,Africa
+891,iban1261,Ibani,ph,"4,49119","7,23558",389,Africa
+367,izon1238,KOLOKUMA IJO,upsid,"5,17986","5,51702",1,Africa
+1048,kala1381,Kalabari; Kirike; Kalabari-Ijo,ph,"4,53194","6,69539",81,Africa
+912,kiri1254,Kirike,ph,"4,41126","6,98938",372,Africa
+734,sout2774,ijo de l'est; Eastern Ijo,aa,"4,44235","6,32192",304,Africa
+1395,afri1274,Afrikaans,gm,-22,30,566,Africa
+1551,ango1258,Angolar,gm,"0,11438","6,59486",135,Africa
+1094,anti1245,Antiguan Creole,ph,"17,068263","-61,821863",1,North America
+1055,arag1245,Aragonese,ph,"42,4669","-0,00919",670,Eurasia
+2438,arbe1236,Arbëresh Albanian,ea,38911,"16,7164",88,Eurasia
+2159,assa1263,Assamese,uz,"26,0876","91,2932",65,Eurasia
+2516,astu1245,Asturian,ea,"42,4181","-6,02227",832,Eurasia
+1707,awad1243,Awadhi,ra,"27,5907","82,4663",110,Eurasia
+2249,bakh1245,Bakhtiari,ea,"32,0163","49,7713",1044,Eurasia
+1105,beli1260,Belizean Creole,ph,"17,3941","-88,6281",37,North America
+2624,beng1280,Bengali,ea,24,90,19,Eurasia
+1189,berb1259,Berbice Dutch,ph,"5,3829","-58,0002",32,South America
+1712,bhil1251,Bhili,ra,"20,85","73,9592",705,Eurasia
+2357,bhoj1244,Bhojpuri,ea,"26,458455","84,817115",64,Eurasia
+2584,bret1244,Breton,ea,"48,2452","-3,78934",139,Eurasia
+1198,brok1247,Brokskat,ph,"34,5308","76,6026",3481,Eurasia
+2219,bukh1238,Bukharan Tajik,uz,41,64,225,Eurasia
+2163,bulg1262,Bulgarian,uz,"43,3646",25047,96,Eurasia
+1716,bund1253,Bundeli,ra,"24,8982","78,9542",289,Eurasia
+2546,camp1261,Campidanese Sardinian,ea,"39,0566","9,03935",53,Eurasia
+2250,cent1972,Kurdish,ea,"35,6539","45,8077",1282,Eurasia
+2322,cent1973,Wazirwola,ea,"31,9153","69,4529",1069,Eurasia
+1139,croa1245,Croatian,ph,"45,2006",16826,132,Eurasia
+1140,czec1258,Czech,ph,"49,873398","15,10437",447,Eurasia
+2167,dani1285,Danish,uz,"54,8655","9,36284",38,Eurasia
+2315,dhiv1236,Dhivehi,ea,"1,928498","73,54433",1,Eurasia
+1109,diml1238,Dimili,ph,"38,6147","39,6388",1634,Eurasia
+2530,doma1258,Domari,ea,32,35,265,Eurasia
+1050,dutc1256,Dutch,ph,52,5,1,Eurasia
+488,east1436,NEPALI,upsid,"27,5947033333","87,6200833333",NA,Eurasia
+2593,east2282,Latgalian,ea,NA,NA,NA,Eurasia
+1049,east2295,Standard Yiddish,ph,"51,75","19,42",181,Eurasia
+2498,east2304,Eastern Hill Balochi,ea,28,62,1391,Eurasia
+2473,elfd1234,Elfdalian,ea,NA,NA,NA,Eurasia
+2378,faro1244,Faroese,ea,"62,0732","-6,88497",83,Eurasia
+1438,fern1234,Pichi,gm,"3,74","8,78",118,Africa
+1231,friu1240,Friulian,ph,"46,1473","13,0493",195,Eurasia
+1721,gade1236,Gade-Lohar,ra,"25,8583","78,2187",215,Eurasia
+1141,gali1258,Galician,ph,"42,2446","-7,5343",1060,Eurasia
+2358,gheg1238,Gheg Albanian,ea,42317,"21,3837",507,Eurasia
+2452,guja1252,Gujarati,ea,22687,"71,0962",117,Eurasia
+1112,guja1253,Gojri; Gujari; Gujar,ph,"34,3768","73,1461",1607,Eurasia
+1727,halb1244,Halbi,ra,"20,3081","81,3742",441,Eurasia
+2190,hind1269,Hindi,uz,25,77,398,Eurasia
+2568,icel1247,Icelandic,ea,"63,4837","-19,0212",372,Eurasia
+2193,iris1253,Irish,uz,"53,2186","-7,61509",78,Eurasia
+2270,ishk1246,Ishkashimi,ea,"36,67","71,55",3059,Eurasia
+1145,ital1282,Italian,ph,"43,0464","12,6489",501,Eurasia
+1053,jama1262,Jamaican Creole,ph,"18,13","-77,2612",495,North America
+1731,jaun1243,Jaunsari,ra,"30,5587","77,9084",1342,Eurasia
+2596,jerr1238,Jèrriais,ea,NA,NA,NA,Eurasia
+2284,jude1256,Juhuri,ea,"42,068306","48,264749",83,Eurasia
+1606,kabu1256,Cape Verde Creole,gm,"15,0586","-23,6148",438,Africa
+1733,kang1280,Kangri,ra,31915,76366,722,Eurasia
+907,kari1301,Karipuna Creole,ph,"3,42825","-51,6888",159,South America
+174,kash1277,Kashimiri,spa,"34,166825","74,330455",1567,Eurasia
+2537,khal1271,Khalkhal,ea,NA,NA,NA,Eurasia
+1747,konk1267,Konkani,ra,"19,2414","73,9166",713,Eurasia
+1570,krio1253,Krio,gm,"10,8811","-14,3204",45,Africa
+1753,kuma1273,Kumauni,ra,"29,5622","80,0171",1116,Eurasia
+2221,kumz1235,Kumzari,uz,"26,1602","56,4202",95,Eurasia
+2194,ladi1251,Judeo-Spanish,uz,41205,"28,6632",117,Eurasia
+1710,lamb1269,Banjara,ra,"16,5734","76,9717",352,Eurasia
+2325,ligu1248,Ligurian,ea,"44,0816","7,90522",632,Eurasia
+2244,lith1251,Lithuanian,ea,"55,1429","23,9601",66,Eurasia
+2602,lowe1385,Lower Sorbian,ea,"51,6621","13,9407",116,Eurasia
+2200,luxe1241,Luxembourgish,uz,"49,6839","6,14931",232,Eurasia
+930,mace1250,Macedonian,ph,"41,5957","21,7932",832,Eurasia
+2454,maga1260,Magahi,ea,"25,0915","85,3335",63,Eurasia
+2302,mait1250,Maithili,ea,"26,3817","86,2211",58,Eurasia
+1766,mara1378,Marathi,ra,"17,9344","76,6665",649,Eurasia
+991,marw1260,Marwari,ph,27002,"75,0656",363,Eurasia
+1042,maza1291,Mazanderani,ph,36241,"52,3009",1789,Eurasia
+1227,mewa1250,Mewati,ph,27736,76947,213,Eurasia
+2278,mira1251,Mirandese,ea,"41,5375","-6,38371",722,Eurasia
+2186,mode1248,Greek,uz,"42,3224","24,8699",142,Eurasia
+1569,mori1278,Mauritian Creole,gm,"-20,2613","57,5517",301,Africa
+2289,munj1244,Munji,ea,"35,9321","70,9404",3716,Eurasia
+958,naga1394,Nagamese,ph,"25,2508","93,4438",1400,Eurasia
+2204,nepa1254,Nepali,uz,28,85,1904,Eurasia
+1134,nige1257,Nigerian Pidgin,ph,"9,65873","4,21068",248,Africa
+1111,nort2626,Frisian,ph,"54,6409","8,58489",NA,Eurasia
+1131,nort2627,Low German,ph,50771,6092,63,Eurasia
+2484,nort2641,Northern Kurdish,ea,37,43,683,Eurasia
+2321,nort2646,Yousafzai Pashto,ea,34,"71,33",551,Eurasia
+2441,norw1258,Norwegian,ea,"59,92","10,71",40,Eurasia
+159,norw1259,Norwegian,spa,61112,8886,631,Eurasia
+171,nucl1235,Armenian,spa,40,45,1872,Eurasia
+2478,occi1239,Occitan,ea,"44,1415","6,82979",1206,Eurasia
+2495,oriy1255,Oriya,ea,21,85,136,Eurasia
+510,ormu1247,ORMURI,upsid,"32,6819","69,3444",2253,Eurasia
+976,osse1243,Ossetian,ph,"41,7882","43,2674",NA,Eurasia
+2479,panj1256,Panjabi,ea,"30,0368","75,6702",219,Eurasia
+1036,phal1254,Palula (Phalura),ph,"35,5096","71,8421",2899,Eurasia
+2224,plau1238,Mennonite Plautdietsch,uz,"49,578028","-109,353868",1104,North America
+1046,poli1260,Polish,ph,"51,8439","18,6255",117,Eurasia
+2206,port1283_01,Portuguese (European),uz,"39,91","-8,1",464,Eurasia
+2207,port1283_02,Portuguese (Brazilian),uz,"39,91","-8,1",464,Eurasia
+1454,prin1242,Principense,gm,1614,7392,291,Africa
+2247,rajb1243,Rājbanshi,ea,"26,521945","88,038582",99,Eurasia
+1564,reun1238,Reunionnais,gm,"-21,1131","55,5321",1868,Africa
+2304,roma1326,Vallader Romansh,ea,"46,5538","9,92812",2184,Eurasia
+2443,roma1327,Romanian,ea,"46,3913","24,2256",313,Eurasia
+2261,russ1263,Russian,ea,59,50,201,Eurasia
+2343,rusy1239,Rusyn,ea,"48,7171","22,9579",564,Eurasia
+1782,sans1269,Sanskrit,ra,20,77,485,Eurasia
+1566,saot1239,Saotomense,gm,"0,28332","6,61935",990,Africa
+1735,saur1248,Kanigke:rgotti,ra,"9,99172","77,9427",185,Eurasia
+2505,scot1243,Scots,ea,"55,886945","-3,710133",153,Eurasia
+2601,scot1245,Scottish Gaelic,ea,"56,7574","-5,24366",119,Eurasia
+1011,sera1259,Siraiki,ph,"29,5534",71906,117,Eurasia
+2499,serb1264,Serbian,ea,"44,3238","21,9192",621,Eurasia
+1785,shin1264,Shina,ra,"34,6515",75287,3698,Eurasia
+1148,sind1272,Sindhi,ph,26,69,20,Eurasia
+178,sinh1246,Sinhalese,spa,8,81,47,Eurasia
+1149,slov1268,Slovene,ph,"46,2543","14,7766",1132,Eurasia
+2209,slov1269,Slovak,uz,"48,545705","18,78479",212,Eurasia
+2586,sout2436,Southwestern Pashto,ea,NA,NA,NA,Eurasia
+2545,sout2642,Southern Balochi,ea,26,64,538,Eurasia
+2227,sout2672,Southeastern Pashayi,uz,"34,43099","70,30351",673,Eurasia
+2210,stan1288,Spanish,uz,"40,4414","-1,11788",1174,Eurasia
+1138,stan1289,Catalan,ph,41453,1569,594,Eurasia
+2182,stan1290,French,uz,48,2,129,Eurasia
+2175,stan1293,English (American),uz,53,-1,31,Eurasia
+2184,stan1295,German,uz,48649,"12,4676",357,Eurasia
+2493,stan1325,Latvian,ea,57,24,5,Eurasia
+1150,swed1254,Swedish,ph,"59,800634","17,389526",25,Eurasia
+2185,swis1247,Swiss German,uz,"47,0516","8,46419",1042,Eurasia
+2266,taji1245,Tajik,ea,"38,8213","68,5549",3108,Eurasia
+1219,torw1241,Torwali,ph,"35,3101","72,5316",4320,Eurasia
+2592,tosk1239,Tosk Albanian,ea,41,20,80,Eurasia
+1035,ukra1253,Ukrainian,ph,"48,175842","24,395786",182,Eurasia
+2541,uppe1395,Upper Sorbian,ea,"51,2403","14,4098",179,Eurasia
+2232,uppe1400,Upper Saxon,uz,51152,12692,187,Eurasia
+1553,uppe1455,Kriyol,gm,"13,2335066667","-15,33254",48,Africa
+2466,urdu1245,Urdu,ea,25,67,32,Eurasia
+1798,vaag1238,Vaagri Boli,ra,12215,"79,5335",70,Eurasia
+2404,varl1238,Varli,ea,"20,5635","73,2975",146,Eurasia
+2228,vlax1238,greek Thrace Xoraxane Romane,uz,"46,8191","14,8451",434,Eurasia
+2514,wakh1245,Wakhi,ea,"37,1768","73,9777",4224,Eurasia
+2589,wane1241,Waneci,ea,"30,0501","67,8327",788,Eurasia
+2406,wels1247,Welsh,ea,52,-4,129,Eurasia
+2470,west2354,Frisian,ea,53143,"5,86091",1,Eurasia
+2622,west2368_01,Western Balochi,ea,"37,83","62,17",208,Eurasia
+2345,west2368_02,Western Balochi,ea,"37,83","62,17",208,Eurasia
+2348,west2368_03,Western Balochi,ea,"37,83","62,17",208,Eurasia
+2618,west2368_04,Western Balochi,ea,"37,83","62,17",208,Eurasia
+2205,west2369,Persian,uz,"28,6593","55,1586",1293,Eurasia
+2330,wymy1235,Wymysorys,ea,"49,91617","19,15195",303,Eurasia
+2418,yagn1238,Yaghnobi,ea,"39,1486","69,2422",2906,Eurasia
+280,cher1273,CHEROKEE,upsid,"35,4664",-83163,1144,North America
+885,huro1249,Huron,ph,NA,NA,NA,North America
+77,onei1249,Oneida,spa,"43,438742","-75,708106",387,North America
+76,sene1264,Seneca,spa,"42,56","-77,53",445,North America
+621,bert1248,BERTA,upsid,"10,6474","34,7042",866,Africa
+2123,kunz1244,Kunza,saphon,-23,-69,2559,South America
+1941,vile1241,Vilela,saphon,"-27,4063","-58,9661",46,South America
+1906,puel1244,Günün Yajich,saphon,"-36,6376","-62,9413",1307,South America
+357,hadz1240,HADZA,upsid,"-3,83115","35,0458",1136,Africa
+1652,sand1273,Sandawe,gm,"-5,26918","35,4808",1222,Africa
+1082,chim1301,Chimariko,ph,41,-123,1976,North America
+1074,yuch1247,Euchee; Yuchi,ph,"35,96146","-95,03933",277,North America
+91,zuni1245,Zuni,spa,"35,0056",-108782,2202,North America
+1928,iton1250,Itonama,saphon,"-12,80431","-64,35748",136,South America
+944,mose1249,Moseten,ph,"-14,64448","-67,83756",505,South America
+1147,seri1257,Seri,ph,"28,9877",-112384,171,North America
+2561,buru1296,Burushaski,ea,"36,2161","74,8236",3087,Eurasia
+2370,gily1242,Nivkh,ea,"52,59",140681,488,Eurasia
+919,kusu1250,Kusunda,ph,"29,1766","80,6309",984,Eurasia
+2198,kuna1268,Kunama,uz,"14,5879","37,5292",1024,Africa
+2203,nara1262,Nara,uz,"15,3251",37499,988,Africa
+1005,shab1252,Shabo,ph,"7,64407",35223,1779,Africa
+1627,siam1242,Siamou,gm,10998,"-4,92143",535,Africa
+2653,gaga1251,Gaagudju,er,"-12,5176",132643,86,Australia
+1930,lule1238,Lule,saphon,"-25,221839","-61,887818",160,South America
+2675,kung1259,Kungarakany,er,"-12,7",130881,17,Australia
+2642,lara1258,Larrakia,er,"-12,4111",130922,1,Australia
+2691,mink1237,Minkin,er,"-17,736653","139,541931",8,Australia
+1218,tiwi1244,Tiwi,ph,"-11,6308",130949,9,Australia
+2644,umbu1235,Umbugarla,er,"-12,9325",131825,134,Australia
+2636,wadj1254,Patjtjamalh,er,"-12,8596",130737,71,Australia
+3006,wage1238,Wagiman,er,"-13,8627",131893,198,Australia
+2161,basq1248,Basque,uz,"43,2787","-1,31622",618,Eurasia
+326,fasu1242,FASU,upsid,"-6,62687",143284,299,Papunesia
+938,maib1239,Maybrat,ph,"-1,3679",132591,144,Papunesia
+635,yana1271,YANA,upsid,"39,2769",-121608,22,North America
+464,morb1239,MOR,upsid,"-2,85747",132845,1,Papunesia
+559,savo1255,SAVOSAVO,upsid,"-9,12853",159814,334,Papunesia
+88,karo1304,Karok,spa,"41,8228",-123315,798,North America
+590,tonk1249,TONKAWA,upsid,"30,25","-96,75",86,North America
+80,tuni1252,Tunica,spa,"30,9888","-92,5403",20,North America
+1030,wash1253,Washo,ph,"38,8184","-119,64",1935,North America
+1210,bilu1245,Bilua,ph,"-7,92388",156663,51,Papunesia
+918,kuot1243,Kuot,ph,"-3,06952",151537,577,Papunesia
+925,lavu1241,Lavukaleve,ph,"-9,05569",159119,251,Papunesia
+1923,abis1238,Aʔɨwa,saphon,"-0,69386","-75,2183",180,South America
+2118,aika1237,Aikanã,saphon,"-12,6695","-60,5353",512,South America
+1922,ando1256,Andoke,saphon,"-0,53751","-72,0869",104,South America
+1924,cams1241,Camsá,saphon,"1,14537","-76,8931",2165,South America
+1925,cand1248,Candoshi-Shapra,saphon,"-4,23835","-76,9347",187,South America
+1926,cayu1262,Cayubaba,saphon,"-13,2482","-65,4822",137,South America
+1957,chiq1248,Bésɨro,saphon,"-17,6354","-59,9172",315,South America
+1895,cofa1242,Cofán,saphon,"0,276675","-77,0643",514,South America
+1979,fuln1247,Yaathe,saphon,"-9,02591","-37,1402",364,South America
+1929,leco1242,Leco,saphon,"-15,0092","-67,8818",501,South America
+1959,guat1253,Guató,saphon,"-17,8696","-57,2897",92,South America
+1927,iran1263,Mỹky,saphon,"-12,7178","-57,9806",400,South America
+904,kano1245,Kanoe,ph,"-12,1789","-64,5812",139,South America
+921,kwaz1243,Kwaza,ph,"-11,6667","-61,1833",199,South America
+2119,mato1253,Arára do Mato Grosso,saphon,-13175,-55869,100,South America
+1931,moch1259,Mochica,saphon,"-8,01667",-79,339,South America
+1932,movi1243,Movima,saphon,"-13,8115","-65,6348",137,South America
+1933,muni1258,Muniche,saphon,"-5,80546","-76,2811",183,South America
+1934,paez1247,Páez,saphon,"2,61516","-76,3125",2931,South America
+1939,trum1247,Trumai,saphon,"-11,8119","-53,5717",229,South America
+1989,pira1253,Pirahã,saphon,"-6,77713","-61,8167",100,South America
+1935,puin1248,Puinave,saphon,"3,92974","-67,6886",83,South America
+2125,pume1238,Pumé,saphon,"7,10677","-67,5996",57,South America
+1936,taus1253,Taushiro,saphon,"-3,22497","-75,5603",177,South America
+1938,tini1245,Tinigua,saphon,2716,-73768,301,South America
+1940,urar1246,Urarina,saphon,"-4,44006","-75,4211",119,South America
+1942,waor1240,Waorani,saphon,"-1,12312",-76683,266,South America
+1943,wara1303,Warao,saphon,"7,50851","-59,3528",71,South America
+1944,yama1264,Yahgan,saphon,"-55,2748","-68,2648",1,South America
+1123,mola1238,Molalla,ph,44556,-122857,136,North America
+1026,yura1255,Yuracure,ph,"-16,7479","-65,1224",203,South America
+416,klam1254,KLAMATH,upsid,"42,5861",-121704,1314,North America
+2666,amar1271,Amurdak,er,"-11,9876",132878,126,Australia
+2670,gari1254,Garig,er,NA,NA,NA,Australia
+2672,iwai1244,Iwaidja,er,"-11,3379",132453,10,Australia
+2669,maun1240,Mawng,er,"-11,8393",133185,1,Australia
+2336,kuni1268,Kunigami,ea,"26,5911",128068,235,Eurasia
+2453,miya1259,Miyako,ea,"24,7564",125363,59,Eurasia
+2196,nucl1643,Japanese,uz,35,135,74,Eurasia
+1206,onge1236,Öñge; Ong; Onge,ph,"10,6926","92,4707",127,Eurasia
+2674,kitj1240,Kija,er,"-17,5758",127392,568,Australia
+2673,miri1266,Miriwoong,er,"-16,3596",128889,88,Australia
+382,toll1241,TOL,upsid,"14,6686","-87,0372",801,North America
+1946,achu1248,Achuar-Shiwiar,saphon,"-2,82646","-77,2641",312,South America
+1947,agua1253,Aguaruna,saphon,"-5,30044","-77,9218",606,South America
+1948,huam1247,Huambisa,saphon,"-3,99109","-77,9797",1000,South America
+1949,shua1257,Shuar,saphon,"-3,45136","-78,1892",953,South America
+2042,piar1243,Piaroa,saphon,"4,41805","-67,7574",300,South America
+2043,sali1298,Sáliba,saphon,"5,30115","-69,3843",99,South America
+2120,yuwa1244,Hoti,saphon,"5,63879","-65,4267",2000,South America
+1419,kang1288,Kanga (Kanga),gm,"11,0174","29,3463",465,Africa
+1421,katc1249,Kadugli (Kadugli),gm,"10,8423","29,4914",470,Africa
+1417,keig1242,Keiga,gm,"11,2064","29,3889",509,Africa
+1418,kron1241,Krongo,gm,10514,30003,450,Africa
+1416,tuli1249,Tulishi,gm,"11,4507",29108,584,Africa
+1663,tumt1243,Talasa,gm,"10,6378","30,4128",479,Africa
+1950,cacu1241,Kakua,saphon,"0,88778","-69,5659",150,South America
+1951,nuka1242,Nukak,saphon,"2,65939","-71,4629",300,South America
+1088,lazz1240,Laz,ph,"41,5004","41,9096",1201,Eurasia
+941,ming1252,Mingrelian,ph,"42,5129","41,8719",127,Eurasia
+2183,nucl1302,georgian,uz,"41,850397","43,78613",1439,Eurasia
+2392,svan1243,Svan,ea,"42,9134","42,5915",3282,Eurasia
+1801,qawa1238,Kawesqar,saphon,-49703,"-75,3756",544,South America
+413,west2632,ACOMA,upsid,"34,9733",-107517,1867,North America
+1360,haio1238,San,gm,"-19,7637","17,0299",1410,Africa
+155,nama1265,Nama,spa,NA,NA,NA,Africa
+898,jeme1245,Jemez,ph,"35,5994",-106766,1767,North America
+409,kiow1266,KIOWA,upsid,"34,9403","-98,9042",444,North America
+598,nort1550,PICURIS,upsid,"36,4277",-105604,2133,North America
+92,sout2961,Tiwa,spa,"34,7873",-106661,1498,North America
+93,tewa1260,Tewa,spa,"35,9053",-106124,1675,North America
+411,sout2949,SOUTHERN KIWAI,upsid,"-8,64889",143244,41,Papunesia
+393,gras1249,KOIARI,upsid,"-9,51218",147437,735,Papunesia
+955,kima1246,Khmu,ph,"-8,01899",138355,1,Papunesia
+1484,komo1258,Komo,gm,"8,94162","34,0939",1006,Africa
+1487,kwam1249,Kwama,gm,"9,50836","34,2457",1322,Africa
+1486,opuu1239,Opo,gm,"8,47526",33853,441,Africa
+1485,uduk1239,Twampa,gm,"9,16012","34,2293",776,Africa
+2481,kond1303,Konda,ea,"-1,82635","132,06",5,Eurasia
+2197,kore1280,Korean,uz,"37,5",128,141,Eurasia
+755,gbay1288,kresh,aa,"8,43391","25,5173",626,Africa
+368,ikkk1242,IK,upsid,"3,61407","34,2507",1757,Africa
+505,nyan1313,NYANGI,upsid,"3,4997","33,73651",1367,Africa
+1476,sooo1256,Soo,gm,"2,58367","34,7595",1779,Africa
+432,juho1239,!XU,upsid,-19688,"20,7673",1157,Africa
+1383,kung1261,!Xun,gm,"-21,92",18,1653,Africa
+2643,nucl1327,Limilngan,er,"-12,4294",131845,39,Australia
+456,maba1277,MABA,upsid,"12,89147","20,8889",504,Africa
+1565,nucl1440,Masalit,gm,"13,2733","22,1752",808,Africa
+82,nort2952,Maidu,spa,"40,4102",-120645,1271,North America
+1496,bamb1269,Bamana,gm,"12,0401","-9,98949",400,Africa
+667,band1352,bandi,aa,"7,73729","-10,1684",415,Africa
+676,beng1286,bɛ̀ŋ,aa,"7,78122","-4,23539",195,Africa
+680,biss1248,bisa,aa,"10,4257","-1,67332",237,Africa
+682,boko1266,boussa,aa,"10,5189","3,71771",305,Africa
+1252,busa1253,busa,gm,"9,91074","4,39929",229,Africa
+1393,dann1241,Dan,gm,"7,22812","-8,24535",282,Africa
+696,dyul1238,dioula,aa,"10,4536","-4,72007",279,Africa
+1468,dzuu1241,Dzuungoo,gm,"11,3796","-4,92036",352,Africa
+777,east2426,manding,aa,"9,33048","-10,5394",623,Africa
+1562,gagu1242,Gban,gm,"6,40859","-5,51851",167,Africa
+1514,guin1254,"Kpelle, North",gm,"7,93196","-8,98843",526,Africa
+1605,guro1248,Gouro,gm,"7,34954","-6,31154",274,Africa
+683,hain1253,bozo,aa,"13,8734","-5,65085",257,Africa
+1287,jowu1238,jowulu,gm,"10,7691","-5,47873",455,Africa
+1515,kaka1265,Kakabe,gm,"10,5962","-11,4418",832,Africa
+779,kita1249,maninka-kan,aa,"13,1798","-9,49151",338,Africa
+1498,koya1253,Koyaga,gm,"8,29177","-6,23255",308,Africa
+1622,kura1250,Kuranko,gm,"9,49325","-10,6122",486,Africa
+1519,kyen1242,Kyanga,gm,"11,5953","3,58651",247,Africa
+1516,lele1266,Lele,gm,"8,98043",-10371,697,Africa
+137,libe1247,Kpelle,spa,"6,92048","-9,96128",303,Africa
+765,ligb1244,ligbi,aa,"7,94291","-2,56353",304,Africa
+764,loko1255,lɔkɔ,aa,"9,11838","-12,1583",72,Africa
+1517,loma1260,Looma,gm,"7,91585","-9,69906",612,Africa
+1126,mand1436,Mandingo,ph,"12,8165233333","-15,6539466667",52,Africa
+1518,mann1248,Mano,gm,"7,04616","-8,86405",274,Africa
+1369,many1261,Manya,gm,"8,56186","-9,44257",630,Africa
+784,mend1266,mende,aa,"7,90935","-10,9926",187,Africa
+790,mwan1250,muan,aa,"7,87533","-5,94577",271,Africa
+1512,nort2819,"Bobo, North",gm,"12,4182","-4,47538",441,Africa
+1520,shan1282,Shanga,gm,"11,2752","4,41464",152,Africa
+1273,soni1259,soninke (kaedi (MRT)),gm,"13,1273","-11,7178",155,Africa
+1194,sout2840,Bobo,ph,"11,5409","-4,26497",304,Africa
+993,sout2844,Samo de Toma,ph,12713,"-2,9052",268,Africa
+822,susu1250,soso,aa,"10,4046","-13,3628",232,Africa
+1450,tiey1235,Tigemaxo Bozo,gm,"14,1223","-5,08609",255,Africa
+1637,tour1242,Toura,gm,"7,76747","-7,33105",576,Africa
+1034,vaii1241,Vai,ph,"7,05085","-11,3262",88,Africa
+839,wann1242,wan,aa,"7,88773","-5,82092",246,Africa
+776,west2500,mande,aa,"13,5677","-12,8009",74,Africa
+895,yalu1240,Jalonke,ph,"9,97186","-11,2836",458,Africa
+844,yaou1238,yaouré,aa,"6,95282","-5,57851",302,Africa
+2681,alaw1244,Alawa,er,"-15,5458",134282,125,Australia
+2682,mang1381,Mangarrayi,er,"-14,7982",133803,NA,Australia
+937,mara1385,Mara,ph,"-14,7927",134865,15,Australia
+2680,wand1263,Warndarrang,er,"-14,2996",135705,1,Australia
+2629,bura1267,Burarra,er,"-12,3061",134365,8,Australia
+2676,djee1236,Ndjebbana,er,"-12,0133",134097,8,Australia
+2677,gura1252,Gurr-Goni,er,"-12,66855","134,09501",75,Australia
+2678,naka1260,Nakara,er,"-12,07653","134,32729",1,Australia
+1349,bamb1262,Northern Mao,gm,"9,82554","34,6522",1486,Africa
+2667,marg1251,Marrgu,er,"-11,1823",132587,1,Australia
+2668,wurr1238,Wurrugu,er,-11364,132303,15,Australia
+1981,iyow1239,Chorote,saphon,"-22,2067","-62,6508",240,South America
+1982,maca1260,Maka,saphon,"-25,0119","-57,3694",59,South America
+1983,niva1238,Chulupí,saphon,"-22,8557","-61,7606",203,South America
+1984,wich1264,Wichí,saphon,"-23,1633","-62,1757",219,South America
+860,chol1282,"Tila, Chiapas",ph,"17,4897","-92,4698",200,North America
+1116,huas1242,Huastec,ph,"21,6153","-98,5028",88,North America
+397,kekc1242,K'EKCHI,upsid,"15,3788","-89,2452",34,North America
+1154,kich1262,Quiche,ph,"14,5278","-91,1696",1420,North America
+1128,mamm1241,Western Mam; Tacanec,ph,"14,8034","-91,7231",2086,North America
+378,popt1235,JACALTEC,upsid,"15,6609","-91,6633",2301,North America
+1156,sipa1247,Sipakapense Maya,ph,"15,23054","-91,7041",2103,North America
+85,taba1266,Chontal,spa,"18,1713","-92,7367",5,North America
+86,tzel1254,Tzeltal,spa,"16,6384","-92,2786",2101,North America
+1079,tzot1259,"Tzotzil, Chamula",ph,"16,6362","-92,7388",1174,North America
+1223,tzut1248,Tzutujil,ph,"14,6351","-91,2012",1856,North America
+640,yuca1254,YUCATEC,upsid,"18,7757","-88,9567",73,North America
+2688,binb1242,Binbinka,er,NA,NA,NA,Australia
+2683,djam1255,Jaminjung,er,"-15,0558","130,06",75,Australia
+2687,djin1251,Jingulu,er,-17165,133659,252,Australia
+2686,ngar1283,Ngarnka,er,"-17,42","134,73",249,Australia
+2685,nung1291,Nungali,er,"-14,9109",131641,199,Australia
+1019,ulwa1239,Sumo,ph,"12,932292","-83,581467",2,North America
+1087,lake1258,Lake Miwok; Miwok (Lake),ph,"39,0021",-122621,563,North America
+547,sout2985,SIERRA MIWOK,upsid,"38,2363",-120507,753,North America
+1021,chim1300,San Miguel Chimalapa Zoque,ph,"16,6543","-94,6913",285,North America
+1207,olut1240,Oluta Popoluca; Olutec,ph,"17,8937","-94,8863",61,North America
+999,sayu1241,Popoluca de Sayula,ph,"17,8606","-94,9531",67,North America
+1136,texi1237,Texistepec Popoluca,ph,"17,8926","-94,8076",29,North America
+472,toto1305,MIXE,upsid,"17,2157","-96,0179",1800,North America
+1985,call1235,Callawaya,saphon,"-15,88451","-68,10176",2991,South America
+1072,mich1243,Michif,ph,"49,1681","-99,9119",525,North America
+2588,bona1250,Baoan,ea,"35,6972",102995,2149,Eurasia
+2256,dark1243,Darkhat,ea,50623,"99,4449",2146,Eurasia
+2312,daur1238,Daur,ea,48,124,153,Eurasia
+2477,dong1285,Dongxiang,ea,"35,5808",103558,2086,Eurasia
+2242,east2337,Eastern Yugur,ea,"37,9882",101762,2735,Eurasia
+191,halh1238,Khalkha,spa,48324,106289,1239,Eurasia
+2599,kalm1243,Kalmyk,ea,"46,566667","45,316667",-3,Eurasia
+2301,kang1281,Kangjia,ea,35043,101254,3855,Eurasia
+459,mogh1245,MOGHOL,upsid,"34,2504","62,2802",946,Eurasia
+2464,mong1331,Mongolian,ea,NA,NA,NA,Eurasia
+2317,russ1264,Buriat,ea,"50,8533",105564,1305,Eurasia
+2501,tuuu1240,Mongghul,ea,"36,8177",102117,2780,Eurasia
+79,alab1237,Alabama,spa,"30,76738","-94,62848",95,North America
+1230,chic1270,Chickasaw,ph,"33,9452","-97,1301",159,North America
+1071,choc1276,Choctaw,ph,"33,8993",-94819,169,North America
+1106,koas1236,Koasati,ph,"30,4096",-92709,12,North America
+2281,NA,Modern Aramaic,ea,NA,NA,NA,Eurasia
+2729,NA,Djindewal,er,NA,NA,NA,Australia
+1990,daww1239,Dâw,saphon,"-0,1177","-67,2934",105,South America
+1020,hupd1244,Hup,ph,"0,58622","-69,8359",141,South America
+1992,nade1244,Nadëb,saphon,"-1,24449","-66,3068",82,South America
+1993,yuhu1238,Yuhup,saphon,"0,2485","-69,8079",106,South America
+2465,andi1255,Andi,ea,"42,8078","46,2919",1923,Eurasia
+228,arch1244,ARCHI,upsid,"42,3239","46,8267",1797,Eurasia
+2467,avar1256,Avar,ea,"41,7047",46558,734,Eurasia
+2390,bats1242,Bats,ea,"42,1806",45344,1009,Eurasia
+856,chec1245,Chechen,ph,"43,5","45,5",201,Eurasia
+2329,dido1241,Tsez,ea,"42,2646","45,8096",1937,Eurasia
+2565,ghod1238,Godoberi,ea,"42,7428","46,2252",2138,Eurasia
+2237,hunz1247,Hunzib,uz,"42,0808","46,1369",2215,Eurasia
+893,ingu1240,Ingush,ph,"43,11","45,03",864,Eurasia
+2440,kara1474,Tukita,ea,"42,6501","46,3151",1451,Eurasia
+2335,lakk1252,Lak,ea,"42,1328","47,0809",1957,Eurasia
+2311,lezg1247,Lezgian,ea,"41,5157","47,8951",1491,Eurasia
+531,rutu1240,RUTUL,upsid,"41,6187","47,3244",1962,Eurasia
+1994,khit1238,Kithaulhu,saphon,NA,NA,NA,South America
+1995,latu1238,Latunde,saphon,"-12,608792","-60,422423",500,South America
+1996,mama1278,Mamaindé,saphon,"-12,986439","-60,101072",564,South America
+995,saba1268,Sabane,ph,"-12,9857",-60335,311,South America
+1428,ache1245,Asharon,gm,"10,8827","30,3187",922,Africa
+1430,dagi1241,Thakik,gm,10583,"29,9404",451,Africa
+1427,lumu1239,Lumun,gm,"10,8308",30253,849,Africa
+580,talo1250,JOMANG,upsid,"10,6453","30,4815",478,Africa
+1429,toch1257,Tocco,gm,"10,8828","30,1567",803,Africa
+1159,ambu1247,Abulas,ph,"-3,7801",143059,133,Papunesia
+984,boik1241,Boiken,ph,"-3,68297",143474,283,Papunesia
+1064,hang1263,Hanga Hundi; Kwasengen; West Wosera,ph,"-3,90364",142849,93,Papunesia
+1433,acol1236,Acholi,gm,"3,57738","32,5147",932,Africa
+1165,anua1242,Anywa,ph,"7,57714","34,0267",300,Africa
+1434,bela1256,Belanda Boor,gm,"6,6503","27,8232",534,Africa
+1313,buru1301,Burun,gm,10725,33921,567,Africa
+1398,dink1262,Dinka,gm,NA,NA,NA,Africa
+875,endo1242,Endo,ph,NA,NA,NA,Africa
+1312,jumj1238,Jumjum,gm,"10,4349","33,7494",501,Africa
+1351,kara1483,Karimojong,gm,"2,45157","34,2761",1151,Africa
+1387,kips1239,Kipsigis,gm,"-0,35774","35,258532",2136,Africa
+428,kups1238,SEBEI,upsid,"1,33197","34,5991",2579,Africa
+1579,lang1322,Lango,gm,"4,04948","33,0412",742,Africa
+1445,lang1324,Lango,gm,"2,13867","33,0553",1049,Africa
+153,luok1236,Luo,spa,"-0,93296","34,4896",1463,Africa
+1432,luwo1239,Luwo,gm,"7,35089","28,1378",451,Africa
+1316,maba1273,Mabaan,gm,"9,81455","33,5404",418,Africa
+154,masa1300,Maasai,spa,"-3,1419","36,4573",1222,Africa
+954,nand1266,Nandi,ph,"0,793737","35,408478",2106,Africa
+1473,ngas1238,Ongamo,gm,"-2,97716",37528,1865,Africa
+307,nort2815,DINKA,upsid,"9,27995","31,8392",286,Africa
+968,nuer1246,Nuer,ph,"8,13911","32,3829",341,Africa
+1366,otuh1238,Otuho,gm,"4,16379","32,6641",1263,Africa
+1394,poko1263,Pokot,gm,"1,57023","35,2318",1877,Africa
+1634,reel1238,Thok Reel,gm,"6,32234","30,49451",423,Africa
+812,saba1262,sabaot,aa,"1,01297","34,6664",3012,Africa
+1359,shil1265,Shilluk,gm,"9,85472","31,7926",324,Africa
+2168,sout2832,Luanyjang Dinka,uz,"8,81115","28,0613",405,Africa
+1309,sout2833,"Dinka, South Central",gm,"6,7307","30,3021",415,Africa
+833,topo1242,toposa,aa,"5,15904","34,2159",592,Africa
+495,nucl1633,NIMBORAN,upsid,"-2,5803",140179,198,Papunesia
+2633,mull1237,Malak-Malak,er,"-13,2973",130615,98,Australia
+1044,tern1247,Ternate,ph,"0,80562",127333,1077,Papunesia
+469,west2600,WEST MAKIAN,upsid,"0,45332","127,63",198,Papunesia
+528,roto1249,ROTOKAS,upsid,"-5,94339",155154,305,Papunesia
+152,nobi1240,Mahas-Fiyadikka,spa,"22,8142","31,8376",261,Africa
+589,toar1246,TAORIPI,upsid,"-8,07231",146206,52,Papunesia
+1169,auuu1241,Au,ph,"-3,53277",142105,415,Papunesia
+1167,bumb1241,Arapesh,ph,"-3,65508",142859,264,Papunesia
+903,kama1367,Kamasau,ph,"-3,8503",143842,200,Papunesia
+869,mufi1238,Muhiang,ph,"-3,57932",142955,304,Papunesia
+980,ning1273,Ningil,ph,"-3,49733",142251,549,Papunesia
+979,yill1241,Yil,ph,"-3,46501",142178,814,Papunesia
+202,amel1241,AMELE,upsid,"-5,29126",145687,34,Papunesia
+1175,awar1248,Awara,ph,"-6,16986",146372,1501,Papunesia
+57,awiy1238,Auyana,spa,"-6,54079","145,76",1768,Papunesia
+1039,baru1269,Baruga,ph,"-9,40132",148761,157,Papunesia
+1193,bina1277,Binandere,ph,"-8,37433",147884,119,Papunesia
+872,binu1245,Binumarien,ph,"-6,22068",146102,842,Papunesia
+284,chua1250,CHUAVE,upsid,"-6,17824",145139,2097,Papunesia
+414,east2516,KEWA,upsid,"-6,32989",143931,1853,Papunesia
+317,ekar1243,EKARI,upsid,"-3,88974",136018,1658,Papunesia
+974,faiw1243,Faiwol,ph,"-5,4967",141656,1548,Papunesia
+56,gads1258,Gadsup,spa,"-6,31631",145997,1215,Papunesia
+881,goli1247,Golin,ph,"-6,2249","144,8505",2119,Papunesia
+962,iseb1246,Ngomba,ph,"-5,20719",145691,147,Papunesia
+871,kora1295,Korafe,ph,NA,NA,NA,Papunesia
+308,lowe1415,DANI,upsid,"-4,25684",138992,1941,Papunesia
+932,madi1261,Ma''di',ph,"-5,63017",146407,144,Papunesia
+973,mian1257,Mianmin,ph,NA,NA,NA,Papunesia
+953,nank1250,Nankina,ph,"-5,80804",146464,1264,Papunesia
+610,nucl1620,WAHGI,upsid,"-6,11629",144665,2046,Papunesia
+978,orok1269,Orokaiva,ph,"-8,79019","148,09",240,Papunesia
+59,sele1250,Selepet,spa,"-6,03532",147234,812,Papunesia
+558,suen1241,SUENA,upsid,"-7,76339",147534,188,Papunesia
+54,tamn1235,Asmat,spa,"-5,57962",139233,1,Papunesia
+55,tele1256,Telefol,spa,"-5,07444",141731,1907,Papunesia
+983,urii1240,Urii,ph,"-6,41993",146608,929,Papunesia
+616,usan1239,USAN,upsid,"-4,84265",145362,673,Papunesia
+870,usar1243,Usarufa,ph,"-6,38898",145633,2111,Papunesia
+1029,wamb1259,Wambon,ph,"-5,44334","140,48",250,Papunesia
+615,want1252,WANTOAT,upsid,"-6,15216",146513,1566,Papunesia
+632,yaga1260,YAGARIA,upsid,"-6,32432",145388,1681,Papunesia
+1953,apin1244,Apinayé,saphon,"-6,10774","-47,6315",200,South America
+1954,arik1265,Arikapú,saphon,"-12,4878","-62,7261",181,South America
+1956,cane1242,Canela,saphon,"-6,10712","-45,1299",282,South America
+1960,djeo1235,Jabutí,saphon,-12038,"-64,6694",144,South America
+1961,kain1272,Kaingang,saphon,"-27,7671","-52,5394",638,South America
+1962,kara1500,Karajá,saphon,"-11,1881","-50,3492",195,South America
+1963,kaya1330,Mebengokre,saphon,"-7,77352","-51,6737",350,South America
+1964,krah1246,Krahô,saphon,"-8,01172","-47,5774",296,South America
+1965,kren1239,Krenak,saphon,"-18,9988","-41,2299",152,South America
+1966,krik1239,Krinkati-Timbira,saphon,"-5,94252","-46,7504",300,South America
+1967,maxa1247,Maxakalí,saphon,"-16,9402","-40,7891",359,South America
+1968,ofay1240,Ofayé,saphon,-22278,"-53,7227",309,South America
+1969,pana1307,Panará,saphon,"-10,58",-53,234,South America
+1958,para1315,Gavião do Pará,saphon,"-4,91161","-49,0217",208,South America
+1972,rikb1245,Rikbaktsa,saphon,"-11,1887","-58,1942",206,South America
+1980,saop1235,"Kaingáng, São Paulo",saphon,"-23,5708","-46,7609",662,South America
+1973,suya1243,Suyá,saphon,"-11,5178","-53,0743",234,South America
+1976,xava1240,Xavánte,saphon,"-14,3017","-52,4367",463,South America
+1977,xere1240,Xerénte,saphon,"-9,59426","-48,2629",277,South America
+1978,xokl1240,Xokleng,saphon,"-26,9217","-49,5886",906,South America
+1295,afit1238,Afitti,gm,12446,"30,7611",560,Africa
+504,amas1236,NYIMANG,upsid,"12,0993","29,4332",688,Africa
+2160,bard1255,Bardi,uz,"-16,6274",122906,5,Australia
+2700,djaw1238,Jawi,er,"-16,4163",123186,3,Australia
+2699,dyab1238,Jabirr-Jabirr,er,"-17,18653","122,52306",99,Australia
+2695,dyug1238,Jukun,er,-17906,122408,41,Australia
+2692,ngum1253,Ngumbarl,er,NA,NA,NA,Australia
+2698,nima1245,Nimanburu,er,-17374,123228,24,Australia
+2693,nyig1240,Nyikina,er,"-17,9594",124348,141,Australia
+2701,nyul1247,Nyulnyul,er,"-16,9129",122851,81,Australia
+2694,warr1258,Warrwa,er,"-17,0965",123971,13,Australia
+2696,yawu1244,Yawuru,er,-18004,122693,105,Australia
+587,acat1239,TLAPANEC,upsid,"17,1034","-99,0602",600,North America
+98,cent2144,Mazahua,spa,"19,7357",-100018,2897,North America
+99,chiq1250,Mazateco,spa,"18,0541","-96,6659",1900,North America
+222,guer1243,AMUZGO,upsid,"16,77226","-98,18953",419,North America
+2218,isth1244,Isthmus (Juchitán) Zapotec,uz,"16,4548","-94,8444",18,North America
+859,leal1235,Chinanteco,ph,"17,3162","-95,9265",1245,North America
+1022,loxi1235,Zapotec,ph,"15,8442","-96,6997",233,North America
+97,mezq1235,Otomi,spa,"20,2274","-99,5564",2400,North America
+1132,nort2984,Northern Pame,ph,"22,0968","-99,6434",1375,North America
+279,quio1240,HIGHLAND CHINANTEC,upsid,"17,5621",-96602,1358,North America
+1078,sanj1284,"Tlacolula Valley Zapotec; Western Tlacolula Zapotec; Zapotec, San Juan Guelavía",ph,"17,0332","-96,5967",1597,North America
+100,sanm1295,Mixtec,spa,"17,0777","-97,5432",2431,North America
+2216,sanm1298,Itunyoso Trique,uz,"17,2428","-97,9202",2485,North America
+1108,soch1239,Sochiapan Chinantec,ph,"17,7985","-96,6079",624,North America
+1056,tilq1235,Tilquiapan Zapotec,ph,"16,8529","-96,6321",1786,North America
+294,west2644,CHATINO,upsid,"16,2495","-97,3244",1313,North America
+1059,zoog1238,San Bartolomé Zoogocho Zapotec,ph,"17,2016","-96,3433",2350,North America
+199,achu1247,ACHUMAWI,upsid,"41,0979",-121191,1250,North America
+2931,adny1235,Adnyamathanha,er,"-30,1451",138671,277,Australia
+2880,aghu1254,Aghu Tharnggala,er,-13735,142426,76,Australia
+2908,alng1239,Alngith,er,"-12,5324",141938,1,Australia
+1163,alya1239,Alyawarra,ph,"-21,0427",136835,310,Australia
+2705,ande1247,Antekerrepenhe,er,"-22,51278","137,3515",274,Australia
+2918,angg1238,Angkamuthi,er,-11443,142242,39,Australia
+2884,angu1242,Anguthimri,er,-12395,141755,1,Australia
+2958,anta1253,Antakirinya,er,"-27,1152",134838,206,Australia
+2761,arab1267,Arabana,er,-28705,135449,129,Australia
+2909,arit1239,Aritinngithigh,er,"-12,50839255","142,138748",10,Australia
+2917,atam1239,Uradhi,er,"-11,0018",142273,1,Australia
+2987,awab1243,Awabakal,er,"-33,12847","151,43555",35,Australia
+2898,ayab1239,Ayapathu,er,"-14,6652",142893,150,Australia
+2707,ayer1246,Ayerrerenge,er,NA,NA,NA,Australia
+2768,badi1246,Badimaya,er,"-29,0647",117246,490,Australia
+2935,bang1339,Parnkalla,er,"-33,3036",136079,153,Australia
+2892,barr1247,Malthanmungu,er,"-14,1219",144531,13,Australia
+2741,bayu1240,Payungu,er,"-23,3809",114108,39,Australia
+2865,bibb1234,Bibbulman,er,NA,NA,NA,Australia
+2797,bidy1243,Bidyara,er,-25555,146147,343,Australia
+2982,biga1237,Bigambal,er,-28266,149515,257,Australia
+1192,bili1250,Bilinara,ph,"-16,868771","130,533991",174,Australia
+2799,biri1256,Barna,er,"-20,1494","146,67",236,Australia
+2946,bula1255,Bularnu,er,"-21,02656922","138,1566659",202,Australia
+2717,bung1264,Buwandik,er,"-36,5","140,5",76,Australia
+2742,burd1238,Purduna,er,"-22,9646",114658,108,Australia
+2773,cola1237,Kolakngat,er,"-38,471266","143,422444",158,Australia
+2876,darl1243,Southern Paakintyi,er,"-32,7021",142695,75,Australia
+2774,daun1234,Daungwurrung,er,NA,NA,NA,Australia
+2743,dhal1245,Thalanyji,er,-22196,114937,36,Australia
+2973,dhal1246,Dhay'yi,er,NA,NA,NA,Australia
+2971,dhan1270,Dhangu,er,"-11,9493",135752,1,Australia
+2745,dhar1247,Tharrkari,er,"-24,0601",114847,295,Australia
+2813,dhar1248,Dharumbal,er,-23307,150593,282,Australia
+2727,dhud1236,Dhudhuroa,er,"-36,95881441","147,0450379",941,Australia
+2995,dhur1239,Dhurga,er,-35412,150134,261,Australia
+2757,dier1241,Yarluyandi,er,"-28,1667",138,65,Australia
+2750,dira1238,Thirarri,er,"-28,7992",138078,58,Australia
+2785,djab1234,Djabwurung,er,NA,NA,NA,Australia
+2783,djad1246,Jardwadjali,er,NA,NA,NA,Australia
+2974,djam1256,Djambarrpuyngu,er,-12021,"135,59",1,Australia
+2893,djan1238,Djangun,er,"-16,91051","144,93245",474,Australia
+2992,djap1238,Djapu,er,"-12,879764","136,417978",12,Australia
+2977,djin1252,Djinba,er,"-12,93",134967,69,Australia
+2976,djin1253,Djinang,er,-12462,"134,82",76,Australia
+2744,djiw1241,Jiwarli,er,"-24,10724","116,98858",511,Australia
+2943,duun1241,Duungidjawu,er,NA,NA,NA,Australia
+2890,dyaa1242,Djabugay,er,-16596,145388,367,Australia
+2991,dyan1250,Thanggati,er,"-30,8469",152602,249,Australia
+2732,dyir1250,Dyirbal,er,"-17,4516",145544,845,Australia
+2703,east2380,Eastern Anmatyerre,er,NA,NA,NA,Australia
+2941,gabi1248,Gabi-Gabi,er,NA,NA,NA,Australia
+2719,gami1243,Gamilaraay,er,"-29,9037",149543,222,Australia
+2788,gana1268,Bidhawal,er,"-37,05","148,93",687,Australia
+2789,gana1278,Muk-Thang,er,NA,NA,7,Australia
+2798,gang1268,Barada,er,"-22,7637",149416,296,Australia
+2713,gida1240,Gidabal,er,NA,NA,NA,Australia
+2866,gore1235,Goreng,er,NA,NA,NA,Australia
+2818,gudj1237,Gudjal,er,"-19,44157406","144,6482584",656,Australia
+2828,guga1239,Kukatj,er,"-17,8372",141168,16,Australia
+2819,gugu1253,Gugu Badhun,er,"-18,4921","144,46",613,Australia
+2922,gugu1254,Koko Bera,er,"-15,4296",141635,4,Australia
+2886,gugu1255,Guugu Yimidhirr,er,"-14,9424",144831,183,Australia
+2975,guma1253,Gumatj,er,"-12,25254","136,83042",1,Australia
+2997,gund1248,Gundungurra,er,"-33,7","150,3",720,Australia
+2814,gung1248,Gungabula,er,"-25,6896",148604,496,Australia
+2816,guny1241,Gunya,er,"-27,0642",145862,240,Australia
+2972,gupa1247,Gupapuyngu,er,"-12,2868",135337,1,Australia
+2905,gurd1238,Kurtjar,er,"-17,1653",141145,6,Australia
+2938,gure1255,Gureng-gureng,er,"-25,3893",151175,274,Australia
+2853,guri1247,Gurindji,er,"-17,0329",130379,277,Australia
+2737,guwa1242,Guwa,er,"-21,35147706","142,5243782",205,Australia
+3017,guwa1243,Guwamu,er,"-27,8289",148867,233,Australia
+2714,guwa1244,Guwar,er,"-27,16698973","153,3998245",46,Australia
+2984,hawk1239,Darkinyung,er,"-33,11470744","150,4952383",392,Australia
+2878,ikar1243,Ikarranggal,er,NA,NA,152,Australia
+2728,jand1248,Jandai,er,NA,NA,NA,Australia
+2854,jaru1254,Jaru,er,"-18,3288",128262,360,Australia
+2967,kala1377,Kala Lagaw Ya,er,"-10,6748",142196,152,Australia
+2835,kala1379,Galaagu,er,"-31,7154",118911,412,Australia
+2767,kala1380,Garlali,er,NA,NA,NA,Australia
+2836,kala1401,Kalaamaya,er,NA,NA,505,Australia
+2739,kalk1246,Kalkatungu,er,-21,"139,5",413,Australia
+2867,kani1276,Kaniyang,er,NA,NA,NA,Australia
+879,kara1476,Garadjari,ph,"-18,6771",122334,140,Australia
+2751,kara1508,Karangura,er,NA,NA,NA,Australia
+2839,kari1304,Kariyarra,er,-20445,118613,27,Australia
+2952,kart1247,Kartujarra,er,NA,NA,NA,Australia
+2932,kaur1267,Kaurna,er,"-34,34966141","138,4800794",60,Australia
+2882,kawa1290_01,Ogh Awarrangg,er,"-16,1","142,5",49,Australia
+2883,kawa1290_02,Ogh Unyjan,er,"-16,1","142,5",49,Australia
+2711,kayt1238,Kaytetye,er,"-21,5844",133602,509,Australia
+2792,kera1256,Keramin,er,NA,NA,NA,Australia
+2937,koka1244,Kukata,er,"-31,2052",136813,193,Australia
+2904,kokn1236,Kok Nar,er,-16181,141608,10,Australia
+2959,kuka1246,Kukatja,er,"-20,3321",127666,350,Australia
+2885,kuku1273,Gugu Wakura,er,"-16,0036",145188,259,Australia
+2734,kumb1268,Baanbay,er,"-29,8189",152913,157,Australia
+2815,kung1258,Gunggari,er,"-24,2182",143222,177,Australia
+2840,kurr1243,Kurrama,er,"-22,2134","117,51",611,Australia
+2906,kuth1240,Kuthant,er,"-17,4566",140958,2,Australia
+2900,kuuk1238,Kuugu Ya'u,er,"-12,4947",143165,76,Australia
+2765,kuun1236,Kungkari,er,"-24,75108713","143,5365228",281,Australia
+2779,ladj1234,Ladji-Ladji,er,NA,NA,NA,Australia
+2894,lamu1254,Lamalama,er,-14559,143977,1,Australia
+2912,leni1238,Linngithigh,er,"-12,771375",141962,6,Australia
+2793,lowe1402,Ngayawang,er,NA,NA,NA,Australia
+2709,lowe1436,Lower Southern Aranda,er,"-26,3","135,4",185,Australia
+2913,luth1234,Luthigh,er,NA,NA,NA,Australia
+2780,madh1244,Madhi-Madhi,er,"-34,5","143,5",63,Australia
+2769,malg1242,Malkana,er,-26211,114245,11,Australia
+2968,maly1234,Malyangapa,er,"-29,43",142,133,Australia
+2826,mang1383,Mangala,er,"-18,6597",123769,129,Australia
+2817,marg1253,Margany,er,-26789,144892,280,Australia
+2841,mart1255,Martuthunira,er,"-20,9294",116607,92,Australia
+2830,maya1280,Mayi-Kutuna,er,"-18,1147",140337,26,Australia
+2832,mayi1235,Mayi-Yapi,er,"-19,25","140,61",100,Australia
+2829,mayi1236,Mayi-Kulan,er,"-18,56","141,46",82,Australia
+2928,mbab1239,Mbabaram,er,"-20,1389",143438,403,Australia
+2895,mbar1253,Rimanggudinhma,er,-14529,143789,9,Australia
+2927,mbar1254,Mbara,er,"-19,29","142,475904",240,Australia
+2914,mbiy1238,Mbiywom,er,"-12,89620501","142,2710997",40,Australia
+2715,minj1242,Minjungbal,er,NA,NA,NA,Australia
+2748,mith1236,Mithaka,er,"-25,13606725","139,598447",90,Australia
+2915,mpal1238,Mpalitjanh,er,NA,NA,NA,Australia
+2706,mpar1238,Central Arrernte,er,NA,NA,NA,Australia
+2856,mudb1240,Mudburra,er,"-16,7694",132329,294,Australia
+2888,mulu1243,Muluridji,er,"-17,0601",145329,511,Australia
+2720,muru1266,Muruwari,er,"-28,9618",146546,149,Australia
+2784,nari1241,Nari Nari,er,NA,NA,NA,Australia
+2795,narr1259,Yaraldi,er,"-36,2301",140158,61,Australia
+2936,naru1238,Narrungga,er,"-34,69",137535,40,Australia
+2910,ndra1239,Ndra'ngith,er,NA,NA,NA,Australia
+2962,ngaa1240,Ngaanyatjarra,er,"-25,7514",127602,593,Australia
+2837,ngad1258,Mirrniny,er,"-32,02447","124,46601",155,Australia
+2990,ngan1296,Nganyaywana,er,-29581,151313,732,Australia
+2843,ngar1287,Ngarluma,er,"-20,9235",117203,149,Australia
+2857,ngar1288,Ngardi,er,NA,NA,414,Australia
+2961,ngar1296,Ngarlawangka,er,"-20,20748","119,30579",32,Australia
+2998,ngar1297,Ngarigu,er,"-36,23","149,13",884,Australia
+2831,ngaw1240,Mayi-Thakurti,er,"-19,4484",141471,162,Australia
+2794,ngin1247,Ngintait,er,NA,NA,NA,Australia
+2916,ngko1236,Ngkoth,er,"-12,740575","141,886762",1,Australia
+2770,nhan1238,Nhanda,er,"-27,42523643","114,2680442",180,Australia
+2755,nhir1234,Nhirrpi,er,NA,NA,NA,Australia
+2844,nhuw1239,Nhuwala,er,"-21,38154","115,74542",11,Australia
+2846,nija1241,Nyiyaparli,er,"-22,8558",120831,557,Australia
+2933,nugu1241,Nukunu,er,"-31,9899",133908,78,Australia
+2845,nyam1271,Nyamal,er,"-21,6092",119693,309,Australia
+2827,nyan1301,Nyangumarta,er,"-20,6271",121391,331,Australia
+2862,nyaw1247,Nyawaygi,er,"-18,8743",146216,67,Australia
+2930,oyka1239,Oykangand,er,NA,NA,NA,Australia
+2901,paka1251,Bakanh,er,"-15,0908","142,74",77,Australia
+2877,pall1243,Pallanganmiddang,er,"-35,03278179","149,3371079",162,Australia
+2848,pany1241,Panyjima,er,"-22,7816",118723,757,Australia
+2869,pinj1244,Pinjarup,er,NA,NA,NA,Australia
+2963,pint1250,Pintupi,er,"-23,2963",130643,622,Australia
+2753,pirl1238,Pirlatapa,er,-29524,"139,77",115,Australia
+2766,pirr1240,Pirriya,er,"-25,48006595","142,5485119",159,Australia
+2226,pitj1243,Pitjantjatjara,uz,"-26,9704",131357,556,Australia
+2763,pitt1247,Pitta Pitta,er,"-22,7952",139983,165,Australia
+2758,punt1240,Punthamara,er,"-27,33",143,100,Australia
+2979,rita1239,Ritharrngu,er,"-13,4559",135259,178,Australia
+2999,sout2770,Ngunawal,er,"-36,30008261","148,7238073",922,Australia
+2996,sout2771,Djirringany,er,"-37,06227181","149,7169306",340,Australia
+2985,sydn1236,Dharuk,er,"-33,52925837","150,3490464",862,Australia
+2881,thay1248,Awu Alaya,er,"-14,8292",143324,169,Australia
+2923,thay1249,Thaayorre,er,"-14,8159",142034,31,Australia
+2746,thii1234,Thiin,er,NA,NA,NA,Australia
+2993,thur1254,Dharawal,er,"-35,2853",147475,1,Australia
+2911,tyan1235,Thaynakwithi,er,-12544,141984,1,Australia
+2929,umbu1256,Umbuygamu,er,"-14,25876","143,6305",36,Australia
+2902,umpi1239,Umpila,er,"-13,1528",143467,140,Australia
+2716,waal1238,Waalubal,er,NA,NA,NA,Australia
+2781,wadi1260,Wathi Wathi,er,NA,NA,NA,Australia
+2969,wadi1261,Wadikali,er,NA,NA,NA,Australia
+2947,waga1260,Eastern Wakaya,er,-20329,137623,224,Australia
+2771,waja1257,Watjarri,er,"-28,1761",117153,452,Australia
+2871,waju1234,Wajuk,er,NA,NA,NA,Australia
+2907,wala1263,Walangama,er,"-17,60243295","142,4891266",126,Australia
+2859,walm1241,Walmajarri,er,"-19,7229",126113,240,Australia
+2926,wami1239,Agwamin,er,"-18,3727",143943,632,Australia
+2764,wang1289,Wangkayutyuru,er,"-24,7022",137433,102,Australia
+2762,wang1290,Wangkangurru,er,"-25,8148",135941,169,Australia
+2721,wang1291,Ngiyambaa,er,"-30,6481","146,18",202,Australia
+2957,wanm1242,Warnman,er,"-22,7078",122325,430,Australia
+2870,ward1248,Wardandi,er,NA,NA,NA,Australia
+2747,wari1262,Warriyangga,er,-24353,116927,430,Australia
+2861,warl1254,Warlpiri,er,"-20,1008","131,05",389,Australia
+2860,warl1255,Warlmanpa,er,-18949,133862,357,Australia
+2948,warl1256,Warluwarra,er,"-22,2909",138738,191,Australia
+2733,warr1255,Warrgamay,er,"-18,5468",146179,117,Australia
+2718,warr1257,Warrnambool,er,-38345,"142,4608",1,Australia
+2820,waru1264,Warungu,er,"-18,2496","144,37",519,Australia
+2951,waru1265,Warumungu,er,"-20,6479",134375,404,Australia
+2776,wath1238,Wathawurrung,er,"-37,68777565","144,1013148",441,Australia
+2786,wemb1241,Wemba Wemba,er,-35445,"144,09",74,Australia
+3019,werg1234,Piangil,er,NA,NA,NA,Australia
+1235,west2441,Arrarnte,ph,"-24,05052","133,24621",617,Australia
+2782,west2443_01,East Djadjawurung,er,"-34,13829932","143,6694397",75,Australia
+2988,west2443_02,West Djadjawurung,er,"-34,13829932","143,6694397",75,Australia
+2896,wikm1247,Wik Mungkan,er,"-13,98051","141,81611",16,Australia
+2897,wikn1245,Wik-Ngathan,er,"-13,8691",141532,1,Australia
+2899,wikn1246,Kugu Nganhcara,er,"-13,4957",141599,1,Australia
+2723,wira1262,Wiradjuri,er,"-34,0742",145994,143,Australia
+2775,woiw1237,Boonwurrung,er,"-37,64264501","145,5879962",410,Australia
+2759,wong1246,Kungardutji,er,NA,NA,NA,Australia
+2989,wori1245,Katthang,er,"-32,4806",152107,142,Australia
+2787,wotj1234,Wotjobaluk,er,NA,NA,NA,Australia
+2863,wulg1239,Wulguru,er,"-19,85103121","146,3453957",306,Australia
+2945,wuli1242,Wuli Wuli,er,-24415,149843,181,Australia
+2920,yadh1237,Yadhaykenu,er,-11314,142725,70,Australia
+2730,yaga1262,Turubul,er,NA,NA,NA,Australia
+2740,yala1262,Yalarnnga,er,-21731,139511,311,Australia
+2738,yand1251,Yanda,er,"-21,23270508","140,5134756",305,Australia
+2754,yand1253,Yandruwandha,er,"-28,4744",140583,51,Australia
+2965,yank1247,Yankunytjatjara,er,"-26,4064",133577,381,Australia
+2978,yann1237,Nhangu,er,"-12,0853",134877,1,Australia
+2950,yany1243,Yanyuwa,er,"-15,7621",136055,40,Australia
+2970,yard1234,Yardliyawarra,er,NA,NA,NA,Australia
+2778,yari1243,Yari-Yari,er,NA,NA,NA,Australia
+2756,yawa1258,Yawarrawarrka,er,"-26,7334",140871,61,Australia
+2736,yayg1236,Yaygir,er,"-29,91558791","153,2691386",1,Australia
+2891,yidi1250,Yidiny,er,"-17,1332",145876,273,Australia
+2849,yind1247,Yindjibarndi,er,"-21,5379",117001,303,Australia
+2772,ying1247,Yingkarta,er,"-25,4446","115,58",298,Australia
+2921,yinw1236,Yinwum,er,"-12,52068956","142,7036225",55,Australia
+2925,yiry1245,Yir Yoront,er,"-15,1117",141767,5,Australia
+2796,yith1234,Yitha Yitha,er,"-33,89","144,22",78,Australia
+2980,yort1237,Yabula-Yabula,er,"-35,9","145,01",101,Australia
+2983,yuga1244,Yugambal,er,-27803,153082,66,Australia
+2956,yulp1239,Yulparija,er,"-18,923519","122,370316",161,Australia
+1998,amah1246,Amahuaca,saphon,"-10,2012","-72,3208",407,South America
+2044,arao1248,Araona,saphon,"-12,4242","-67,7293",198,South America
+2000,capa1241,Capanahua,saphon,"-6,63254","-74,3813",132,South America
+2001,cash1251,Cashibo-Cacataibo,saphon,"-8,70232","-75,4206",347,South America
+2003,cash1254,Kashinawa,saphon,"-9,72027","-71,1733",251,South America
+854,cavi1250,Cavinena,ph,"-13,3544","-66,6277",200,South America
+2002,chac1251,Chácobo,saphon,-12133,"-66,7164",205,South America
+2046,esee1248,Ese Ejja,saphon,"-11,7268",-67515,168,South America
+2005,kaxa1239,Kaxararí,saphon,"-9,47288","-66,3329",202,South America
+2006,koru1247,Korubo,saphon,"-5,3655","-70,5094",100,South America
+2007,mati1255,Matís,saphon,"-4,3553","-70,2079",86,South America
+1124,mats1244,Matses,ph,"-5,73914","-72,6281",145,South America
+2009,nuku1263,Nukini,saphon,-7339,"-73,5044",200,South America
+2152,paca1246,Pacahuara,saphon,"-11,9968","-65,5568",208,South America
+2004,pano1254,Katukína,saphon,"-7,97456","-71,56151",176,South America
+2010,pano1255,Panobo,saphon,"-7,16666",-75,318,South America
+2011,poya1241,Poyanáwa,saphon,"-7,46909","-73,0758",200,South America
+2048,reye1240,Reyesano,saphon,"-14,8333","-67,0833",202,South America
+2013,shan1283,Shanenawa,saphon,"-8,00919","-73,3264",200,South America
+1999,shar1245,Arara do Acre,saphon,"-9,8626","-71,1232",343,South America
+2015,ship1255,Shipibo,saphon,NA,NA,NA,South America
+2049,taca1256,Tacana,saphon,"-13,39249","-68,04056",200,South America
+2012,yami1256,Saynawa,saphon,"-9,8846","-71,5964",297,South America
+1006,yawa1260,Shanenawa,ph,"-8,87563","-71,8199",195,South America
+2018,yora1241,Yora,saphon,"-11,3704","-72,0409",549,South America
+2019,yagu1244,Yagua,saphon,"-3,42913","-72,2186",100,South America
+2020,yame1242,Yameo,saphon,"-4,16666","-73,6667",118,South America
+1561,libe1240,Liberian English,gm,6423,"-10,5284",106,Africa
+1135,nort2966,Northern Pomo,ph,"39,1084",-123209,344,North America
+89,sout2982,Pomo,spa,"38,9354",-122599,467,North America
+1971,puri1262,Puri,saphon,"-20,7329","-43,6069",1492,South America
+2032,ayac1239,Ayacucho Quechua,saphon,"-13,84714","-74,32246",3735,South America
+2022,caja1238,Cajamarca Quechua,saphon,"-7,09314","-78,3214",3158,South America
+2023,chac1250,Chachapoyas Quechua,saphon,"-6,27021","-77,6615",1972,South America
+1157,chim1302,Chimborazo Quichua,ph,"-1,36727","-78,8521",3966,South America
+2021,coro1247,Ancash Quechua,saphon,"-8,57647","-77,9864",3752,South America
+2024,cusc1236,Cuzco-Collao Quechua,saphon,"-14,0853","-71,7663",4441,South America
+2034,hual1241,Huallaga Huánuco Quechua,saphon,"-9,57135",-75594,749,South America
+1155,huam1248,Huallaga (Huanuco) Quechua,ph,"-9,15718","-76,3372",1149,South America
+887,huay1240,Huaylas,ph,"-9,38709","-77,7768",4599,South America
+2026,imba1240,Imbabura Quichua,saphon,"0,31776","-78,3729",3382,South America
+2027,inga1252,Inga,saphon,"1,00313","-76,8606",1277,South America
+889,jauj1238,Huanca,ph,"-11,6747","-75,2786",5036,South America
+2028,jung1240,Inga,saphon,"0,88872","-76,6593",556,South America
+2025,lamb1276,Ferreñafe Quechua,saphon,"-6,1715",-79468,2184,South America
+2039,napo1242,Napo Quichua,saphon,"-0,072525","-76,3889",274,South America
+2033,nort2976,Bolivian Quechua,saphon,"-14,4014","-68,7894",2278,South America
+2035,nort2979,Huaylas-Conchucos Quechua,saphon,"-8,97356","-77,4146",3904,South America
+2030,nort2980_01,North Junín Quechua,saphon,"-11,2132","-75,8128",3816,South America
+2037,nort2980_02,Yaru Quechua,saphon,"-11,2132","-75,8128",3816,South America
+2031,nort2980_03,North Junín Quechua,saphon,"-11,2132","-75,8128",3816,South America
+1146,sala1272,Salasaca Quichua,ph,"-1,35447","-78,3953",3319,South America
+2036,sanm1289,San Martin Quechua,saphon,"-6,9582","-76,6608",457,South America
+2038,sant1432,Santiago del Estero Quechua,saphon,-27821,"-63,2466",136,South America
+104,sout2991,Quechua,spa,"-20,9201","-66,3331",4105,South America
+2041,tena1240,Tena Quechua,saphon,"-0,76271","-77,5404",923,South America
+81,nezp1238,Nez Perce,spa,"46,3073",-116408,1029,North America
+150,cent2050,Kanuri,spa,"11,8863","16,3918",317,Africa
+693,daza1242,daza,aa,"15,7358","15,8517",275,Africa
+828,teda1241,teda,aa,"18,0426","14,7717",327,Africa
+1509,zagh1240,Beria,gm,"17,4842","23,4626",916,Africa
+255,bell1243,BELLA COOLA,upsid,"52,3448",-126689,767,North America
+863,coeu1236,Coeur d''Alene',ph,"47,2958",-116715,861,North America
+1107,como1259,Comox,ph,"49,7233",-124967,60,North America
+1115,halk1245,Chilliwak Halkomelem,ph,"48,0751",-122029,105,North America
+449,lush1252,LUSHOOTSEED,upsid,"48,42",-122529,85,North America
+996,saan1246,Saanich,ph,NA,NA,NA,North America
+543,shus1248,SHUSWAP,upsid,"50,8734",-119667,697,North America
+1016,spok1245,Spokan,ph,"47,9087",-118062,732,North America
+68,squa1248,Squamish,spa,"49,3231",-123014,60,North America
+283,uppe1439,UPPER CHEHALIS,upsid,"46,7981",-123169,46,North America
+395,dera1245,DERA,upsid,"-3,52309",140947,411,Papunesia
+52,nucl1632,Sentani,spa,"-2,6013",140512,249,Papunesia
+1160,abau1245,Abau,ph,"-3,97222",141324,132,Papunesia
+221,alam1246,ALAMBLAK,upsid,"-4,66307",143316,290,Papunesia
+1177,awtu1239,Awtuw,ph,"-3,53129",141928,305,Papunesia
+377,iwam1256,IWAM,upsid,"-4,27346",141817,72,Papunesia
+53,kwom1262,Washkuk,spa,"-4,08721",142664,57,Papunesia
+949,nami1256,Namia,ph,"-3,85538",141788,158,Papunesia
+639,yess1239,YESSAN-MAYO,upsid,"-4,15721",142574,42,Papunesia
+544,shas1239,SHASTA,upsid,"41,7587",-122738,973,North America
+2548,acha1249,Achang,ea,"24,3479","97,7438",1649,Eurasia
+1162,akha1245,Akha,ph,"21,2309",100964,1202,Eurasia
+2614,amdo1237,Themchen Tibetan,ea,"34,5177",100485,4257,Eurasia
+1703,anga1288,Angami,ra,"25,6841","93,8668",421,Eurasia
+1704,aona1235,Ao-Naga,ra,"26,3241","94,3824",613,Eurasia
+1705,apat1240,Apatani,ra,"27,1933","93,7284",797,Eurasia
+2560,axiy1235,Ahi,ea,"24,6009",103713,1820,Eurasia
+2346,baim1244,Baima,ea,"33,1001",103952,3309,Eurasia
+2306,balt1258,Balti,ea,"34,4491","77,2859",5359,Eurasia
+2236,belh1239,Belhare,uz,"26,9972","87,2783",1620,Eurasia
+263,bodo1269,BODO,upsid,"26,725455","89,333235",74,Eurasia
+2299,bujh1238,Bhujel,ea,"28,0084","84,5068",795,Eurasia
+244,cent2004,BAI,upsid,"26,1666","99,7052",3200,Eurasia
+2356,chan1310,Chantyal,ea,28684,"83,4488",3903,Eurasia
+1717,chau1259,Chandangs and Byangs,ra,"29,7033","80,4832",1744,Eurasia
+857,chep1245,Chepang,ph,"27,7206","84,9017",1341,Eurasia
+1718,chok1243,Chokri,ra,"25,5636","94,2887",1803,Eurasia
+2350,dakp1242,Northern Cuona,ea,"27,3762","91,8245",2352,Eurasia
+2383,darm1243,Darma,ea,"29,8629","80,5439",1812,Eurasia
+2463,dhim1246,Dhimal,ea,"26,6283","88,3798",111,Eurasia
+2379,dzal1238,Southern Cuona,ea,"27,7855",91374,4332,Eurasia
+2394,dzon1239,Dzongkha,ea,"27,410786","89,581604",2835,Eurasia
+2451,east2347,Tamang,ea,"27,3239","87,0832",1707,Eurasia
+2388,east2773,Dolakha Newar,ea,NA,NA,1847,Eurasia
+2199,ersu1241,Lizu,uz,"29,2867",102213,2152,Eurasia
+1722,galo1242,Gallong,ra,"27,9805586","94,6884956",582,Eurasia
+24,garo1247,Garo,spa,"25,2954",90462,89,Eurasia
+2344,guru1261,Gurung,ea,"27,41687","86,28988",1781,Eurasia
+287,haka1240,LAI,upsid,"22,8735","92,8208",763,Eurasia
+2165,hakk1236,Hakka Chinese,uz,25,116,393,Eurasia
+2391,hela1238,Yolmo,ea,"27,9212","85,6289",1473,Eurasia
+2313,huml1238,Humla Bhotia,ea,"30,1451","81,5659",5034,Eurasia
+1208,jiar1240,Jiarong,ph,"31,60295","102,22875",NA,Eurasia
+387,kach1280,JINGPHO,upsid,"25,4634","97,3278",225,Eurasia
+1736,karb1241,Karbi (Mikir),ra,"25,7317","93,0462",119,Eurasia
+2489,kham1282,Nangchenpa Tibetan,ea,"31,9313","91,7062",4610,Eurasia
+1742,khez1235,Khezha,ra,"25,7078","94,3114",1533,Eurasia
+1226,kinn1249,Kinnauri; Kanauri,ph,"31,3688","78,3148",4324,Eurasia
+1794,kokb1239,Tripuri,ra,"23,1916","91,4673",18,Eurasia
+917,kulu1253,Kulung,ph,"27,1606","87,5717",1518,Eurasia
+2439,kurt1248,Kurtoep,ea,"27,5365","90,9822",3599,Eurasia
+2393,kyer1238,Kyirong Tibetan,ea,"28,2922","85,4257",3096,Eurasia
+922,lada1244,Ladakhi,ph,33468,"80,6013",5507,Eurasia
+2319,lahu1253,Lahu,ea,"21,2701",100214,1536,Eurasia
+1758,lepc1244,Lepca,ra,"27,0869","88,5726",1167,Eurasia
+1121,lisu1250,Lisu,ph,"22,5488","94,0184",2349,Eurasia
+2352,lizu1234,Lizu,ea,"28,333425","101,350309",2544,Eurasia
+1759,loth1237,Lotha,ra,"26,01396","94,04355",261,Eurasia
+2263,lowa1242,gLo Tibetan,ea,"29,0324","83,8959",3549,Eurasia
+1760,lush1249,Lushai,ra,"22,6138","92,6247",119,Eurasia
+935,mana1288,Manange,ph,"28,6416","84,0515",3609,Eurasia
+1047,mand1415,Standard Chinese; Mandarin,ph,"40,0209",116228,52,Eurasia
+1125,mani1292,Manipuri,ph,"24,4409","93,3426",314,Eurasia
+2491,merg1238,Myeik Burmese,ea,NA,NA,NA,Eurasia
+1767,miju1243,Mishmi,ra,"28,4732","97,0444",1954,Eurasia
+2562,mind1253,Min Dong Chinese,ea,26,"119,5",12,Eurasia
+481,minn1241,XIAMEN,upsid,"24,5","118,17",20,Eurasia
+1768,miny1240,Mising,ra,NA,NA,NA,Eurasia
+1769,moyo1238,Moyon,ra,"24,4793","94,3421",696,Eurasia
+2617,narp1239,Nar-Phu,ea,"28,76714","84,22852",4595,Eurasia
+485,naxi1245,NAXI,upsid,"27,5",100,3640,Eurasia
+489,newa1246,NEWARI,upsid,"27,2614","84,9577",285,Eurasia
+2429,nort2722,Northern Qiang,ea,"32,2766",103192,3426,Eurasia
+2164,nucl1310,Burmese,uz,"20,7926","93,9665",699,Eurasia
+2544,nucl1729,Tamang,ea,NA,NA,NA,Eurasia
+21,nyis1236,Dafla,spa,"27,278263","93,675529",1134,Eurasia
+1776,pait1244,Paite,ra,"24,0381","93,6136",1238,Eurasia
+1043,paok1235,"Pa-O, Taungthu",ph,20211,"97,5969",1084,Eurasia
+1778,patt1248,Pat̩t̩an̩i,ra,"32,6963","76,5966",4587,Eurasia
+2456,puri1258,Purki,ea,"34,3386","76,0127",4808,Eurasia
+2298,puxi1242,Puxi,ea,NA,NA,NA,Eurasia
+1224,pwon1235,Pwo Karen,ph,18016,"98,2709",1004,Eurasia
+2360,rawa1265,Rawang,ea,"27,1027","97,0738",2305,Eurasia
+25,sgaw1245,Karen,spa,"17,9872","97,7126",224,Eurasia
+2307,sher1255,Solu Sherpa,ea,27674,"86,9994",4427,Eurasia
+2230,shix1238,Xumi,uz,"28,3895","100,4",4811,Eurasia
+2502,shum1243,Labrang Tibetan,ea,"31,6862","78,3865",4227,Eurasia
+2483,sich1238,Nuosu,ea,"28,1947",102121,1630,Eurasia
+2415,sikk1242,Denjongka,ea,"27,85795","88,59153",4601,Eurasia
+2585,sout2729,Southern Pumi,ea,"27,8408",100622,3253,Eurasia
+2369,spit1240,Spiti Tibetan,ea,32526,77833,5805,Eurasia
+2264,stod1241,Tod Tibetan,ea,32497,77116,4255,Eurasia
+2211,sumi1235,Sumi,uz,"25,9996","94,4235",855,Eurasia
+1789,tang1336,Tangkul Naga,ra,"25,0489","94,3567",1639,Eurasia
+1790,tase1235,Tangsa,ra,"27,2572","96,3855",785,Eurasia
+293,tedi1235,TIDDIM CHIN,upsid,"23,6079",93519,1341,Eurasia
+1792,thad1238,Thaadou,ra,24096,93722,1512,Eurasia
+2294,thak1245,Thakali,ea,"28,7014","83,6466",2762,Eurasia
+1220,thul1246,Thulung; Thulung Rai,ph,"27,5389","87,6063",2504,Eurasia
+1067,tibe1272,Tibetan,ph,"28,3681","90,1872",5435,Eurasia
+1221,tsha1245,Tshangla,ph,"27,3694","91,7741",1804,Eurasia
+2527,walu1241,Walungge,ea,27695,"87,2374",3867,Eurasia
+2396,wayu1241,Hayu,ea,"27,3047","86,1227",1312,Eurasia
+17,wuch1236,Wu,spa,"29,8621",119682,102,Eurasia
+2267,yong1270,Yongning Na,ea,"27,8","100,9",3319,Eurasia
+2166,yuec1235,Chinese,uz,23,113,21,Eurasia
+1229,zaiw1241,Zaiwa,ph,"24,1726","98,3643",2113,Eurasia
+2420,zhon1235,Zhongu Tibetan,ea,"32,43582","103,44179",2888,Eurasia
+1104,bilo1248,Biloxi,ph,"31,32","-89,1951",61,North America
+1238,crow1244,Crow,ph,45368,-107874,1029,North America
+75,lako1247,Dakota,spa,"46,3699","-103,95",901,North America
+894,kris1246,Isaka,ph,"-2,80084",141303,496,Papunesia
+1013,nucl1634,Skou,ph,"-2,64378",140902,7,Papunesia
+604,vani1248,VANIMO,upsid,"-2,68501",141258,174,Papunesia
+1257,koyr1240,songhoy,gm,16192,"-3,73962",287,Africa
+1274,koyr1242,"Songhay, Koyraboro Senni",gm,"16,9634","-0,55187",235,Africa
+1372,tada1238,Tadaksahak,gm,16685,"2,32653",436,Africa
+850,zarm1239,zarma,aa,"12,8554","2,41173",212,Africa
+1166,aran1237,Arandai,ph,"-2,08016",132983,20,Papunesia
+2634,murr1259,Murrinh-patha,er,NA,NA,NA,Australia
+961,nang1259,Nganikurungkurr,ph,-14268,131237,163,Australia
+1483,aari1239,Aari,gm,"5,95034","36,5721",1508,Africa
+1440,dime1235,Dime,gm,"6,20951","36,3329",1826,Africa
+218,hame1242,HAMER,upsid,"5,06515","36,5176",1056,Africa
+60,naas1242,Nasioi,spa,"-6,46022",155632,1642,Papunesia
+1431,didi1258,Didinga,gm,"4,21489","33,6869",1818,Africa
+1472,meen1242,Me'en,gm,"6,63207","35,6255",1022,Africa
+793,murl1244,murle,aa,"6,69756",33988,445,Africa
+1493,nari1240,Laarim,gm,"4,80331","33,3312",570,Africa
+1209,suri1267,Suri,ph,"6,03205","35,0823",1168,Africa
+28,bouy1240,Yay,spa,"24,8484",106187,766,Eurasia
+26,lakk1238,Lakkia,spa,"24,1169",110106,981,Eurasia
+924,laoo1244,Lao,ph,"16,0726",104568,499,Eurasia
+2374,luuu1242,Lue,ea,"21,0321",101282,1045,Eurasia
+309,nort2735,KAM,upsid,"26,9944",109204,480,Eurasia
+2518,nort2740,Northern Thai,ea,"18,857495","100,20739",441,Eurasia
+2314,nort2741,Northeastern Thai,ea,"14,3253",102986,136,Eurasia
+502,nung1283,LUNGCHOW,upsid,"20,8965",104286,723,Eurasia
+2426,nyaw1245,Nyaw,ea,"17,1213",104151,158,Eurasia
+2517,phut1244,Phu Tai,ea,"17,7544966667","104,684233333",317,Eurasia
+340,qaua1234,GELAO,upsid,"26,155438","106,16455",1272,Eurasia
+2361,saek1240,Saek,ea,"17,4558",104787,145,Eurasia
+2367,shan1277,Shan,ea,"21,5995","98,0342",1082,Eurasia
+2333,sout2746,Soutern Tai,ea,"6,85668","99,7031",1,Eurasia
+2605,suii1243,Sui,ea,"24,0488",106563,300,Eurasia
+2582,taid1248,Tay Yo,ea,"19,1801",104938,557,Eurasia
+2471,taid1249,Tay Daeng,ea,"20,4559",104625,1093,Eurasia
+2572,tain1252,Tai Nuea,ea,"21,7837",99722,956,Eurasia
+2215,thai1261,Thai,uz,14192,100671,8,Eurasia
+581,tama1331,TAMA,upsid,14332,"21,9951",1037,Africa
+3001,gang1267,Gangalidda,er,"-17,5446",139426,12,Australia
+3002,kaya1319,Kayardild,er,"-17,0695",139489,1,Australia
+3003,lard1243,Lardil,er,"-16,56152","139,4343",1,Australia
+87,pure1242,Tarascan,spa,"19,2467",-101631,2285,North America
+468,dadi1250,DADIBI,upsid,"-6,65765",144511,803,Papunesia
+570,nucl1339,TEMEIN,upsid,"11,8275","29,3898",714,Africa
+1426,tese1238,These,gm,"11,3885","29,5803",606,Africa
+1937,ticu1245,Ticuna,saphon,"-3,66289","-69,8723",100,South America
+1090,adan1251,Adang,ph,"-8,18958",124448,562,Papunesia
+617,kama1365,WOISIKA,upsid,"-8,26897",124792,1096,Papunesia
+1083,hueh1236,"Tepehua, Huehuetla; Tepehua de Hidalgo; Tepehua de Huehuetla",ph,"20,6189","-97,9347",280,North America
+84,papa1238,Totonac,spa,"20,5671","-97,2554",52,North America
+1158,tlac1235,Tepehua,ph,20704,"-98,1947",434,North America
+1130,nisg1240,Nishgha,ph,55199,-129192,30,North America
+592,nucl1649,TSIMSHIAN,upsid,"52,59103","-128,544545",457,North America
+2050,bara1380,Barasana-Eduria,saphon,"0,02193",-70808,204,South America
+2054,cara1272,Karapanã,saphon,"0,06168","-69,6465",118,South America
+2051,cube1242,Kubeo,saphon,"1,32382","-70,1939",169,South America
+2052,desa1247,Desano,saphon,"0,58157","-69,4955",192,South America
+1113,guan1269,Wanano,ph,"1,07554","-69,5705",98,South America
+2055,kore1283,Koreguaje,saphon,"0,92316","-75,3475",292,South America
+2056,macu1260,Macuna,saphon,"-0,14459","-70,0749",182,South America
+2057,orej1242,Máíhɨki,saphon,"-2,86315","-72,4926",109,South America
+2058,pira1254,Piratapuyo,saphon,"0,50714","-69,5032",208,South America
+2143,pisa1245,Pisamira,saphon,"1,1017","-70,502483",172,South America
+1000,seco1241,Secoya,ph,"-0,459785","-75,5547",216,South America
+2060,sion1247,Siona,saphon,"0,31733","-76,0237",291,South America
+2061,siri1274,Siriano,saphon,"0,436515",-70184,211,South America
+2062,tani1257,Tanimuca-Retuarã,saphon,"-0,59023","-70,3853",90,South America
+1040,tatu1247,Tatuyo,ph,"0,55582","-70,5327",215,South America
+2064,tuca1252,Tucano,saphon,"0,579755","-69,5763",200,South America
+2065,tuyu1244,Tuyuca,saphon,"0,39441","-70,043515",207,South America
+2066,waim1255,Waimaha,saphon,"0,30416","-70,1644",207,South America
+2067,yuru1263,Yurutí,saphon,"0,735585","-69,6955",158,South America
+2238,even1259,Evenki,uz,"53,85",108626,288,Eurasia
+2288,even1260,Even,ea,"70,6687",130914,156,Eurasia
+463,manc1252,MANCHU,upsid,"47,3122",126557,192,Eurasia
+341,nana1257,NANAI,upsid,"48,4343",134797,43,Eurasia
+2570,udih1248,Udihe,ea,"46,6309",135678,357,Eurasia
+2068,ache1246,Aché,saphon,"-25,5865","-56,4697",131,South America
+2069,akun1241,Akuntsú,saphon,"-12,8322","-60,9716",362,South America
+2070,amun1246,Amundava,saphon,"-9,04023","-62,3064",100,South America
+2071,apia1248,Apiaká,saphon,"-7,84711","-57,91",130,South America
+2072,araw1273,Araweté,saphon,"-4,90246","-52,5001",174,South America
+2075,avac1239,Avá-Canoeiro,saphon,"-13,6081","-48,1336",347,South America
+2076,awet1244,Awetí,saphon,"-12,381944","-53,391944",251,South America
+2142,chir1286,Nhandeva,saphon,"-25,6521",-55051,218,South America
+1909,coca1259,Kokama-Kokamilla,saphon,"-4,5",-74,116,South America
+2077,east2555,Chiriguano,saphon,"-21,0909","-61,7179",1332,South America
+2079,emer1243,Emerillon,saphon,"3,23694","-52,3699",76,South America
+2080,gavi1246,Gavião do Jiparaná,saphon,"-10,7235","-61,6752",194,South America
+882,guaj1255,Guajajara,ph,"-4,69461","-45,7081",240,South America
+2081,guaj1256,Guajá,saphon,"-3,93574","-46,3683",100,South America
+2085,guar1292,Guarayu,saphon,"-15,8247","-61,6934",366,South America
+2086,juma1249,Júma,saphon,"-7,27501","-64,0998",80,South America
+2087,juru1256,Jurúna,saphon,"-10,9354","-53,3472",234,South America
+2089,kaiw1246,Kaiwá,saphon,-24589,"-54,6815",338,South America
+2090,kama1373,Kamayurá,saphon,"-12,2661","-53,4651",254,South America
+1076,kari1311,Karitiana; Karitiâna,ph,"-9,37937","-64,1522",99,South America
+1097,karo1306,Karo,ph,NA,NA,NA,South America
+902,kaya1329,Kaiabi,ph,"-11,2747","-55,5479",300,South America
+2094,kuru1309,Kuruáya,saphon,"-3,09561","-52,2303",100,South America
+2095,maku1278,Makuráp,saphon,"-11,8701","-64,3201",180,South America
+2083,mbya1239,Mbyá,saphon,"-26,0188",-52711,489,South America
+1129,mund1330,Mundurukú,ph,"-8,41095",-57691,95,South America
+2097,nhen1239,Nheengatú,saphon,"1,04503","-66,9646",77,South America
+2098,omag1248,Omagua,saphon,-3526,"-69,1667",73,South America
+2099,pait1247,Pai Tavytera,saphon,"-23,15945","-56,11758",296,South America
+2084,para1311,Paraguayan Guaraní,saphon,"-25,60551","-57,08816",328,South America
+2100,para1312,Parakanã,saphon,"-4,64681","-50,0621",213,South America
+1217,saki1248,Sakirabiá; Mekens,ph,-13054,"-62,0927",166,South America
+2102,sate1243,Sateré-Mawé,saphon,"-3,63897","-56,8749",68,South America
+2116,siri1273,Sirionó,saphon,"-15,5298","-63,9688",163,South America
+2103,suru1262,Suruí,saphon,"-11,0989","-61,2818",204,South America
+1038,tapi1253,Tapiete,ph,"-21,4169",-62684,291,South America
+2105,tapi1254,Tapirapé,saphon,"-10,5373","-50,5438",168,South America
+2106,temb1276,Tembé,saphon,"-2,6123","-48,2359",71,South America
+2107,tenh1241,Tenharim,saphon,"-7,92626",-61936,93,South America
+2074,toca1235,Asuriní do Tocantins,saphon,"-3,59359","-49,8991",101,South America
+2108,tupa1250,Tuparí,saphon,"-11,8884","-62,2544",249,South America
+2109,tupi1273,Tupinambá,saphon,"-22,807778","-42,106389",4,South America
+2088,urub1250,Kaapor,saphon,"-2,46455","-46,2204",113,South America
+2110,urue1240,Uru-Eu-Wau-Wau,saphon,"-10,9176","-63,8086",432,South America
+2111,waya1270,Wayampi,saphon,"1,73817","-52,6887",591,South America
+2113,xeta1241,Xetá,saphon,"-24,9408","-52,2266",718,South America
+2073,xing1248,Asurini do Xingú,saphon,"-4,13463",-52321,100,South America
+2114,xipa1240,Xipaya,saphon,-4133,-49948,100,South America
+2117,yuqu1240,Yuqui,saphon,"-16,7875","-64,9438",198,South America
+2115,zoee1240,Zo'é,saphon,"-1,77208","-55,50746",106,South America
+2500,bash1264,Bashkir,ea,"53,5967","56,5594",163,Eurasia
+189,chuv1255,Chuvash,spa,55487,47163,107,Eurasia
+2255,dolg1241,Dolgan,ea,"71,1083","94,2936",43,Eurasia
+2331,gaga1249,Gagauz,ea,"44,5988","28,0277",1,Eurasia
+2540,kara1462,Tofa,ea,"53,7145","98,3792",1454,Eurasia
+2403,kara1464,Karaim,ea,"54,5534","25,1054",145,Eurasia
+2318,kara1467,Karakalpak,ea,"39,98","63,3223",192,Eurasia
+2433,khak1248,Khakas,ea,"50,7393",107169,809,Eurasia
+2382,kirg1245,Kyrgyz,ea,42,74,3648,Eurasia
+2355,kumy1244,Kumyk,ea,43,47,504,Eurasia
+2372,nort2686,Northern Altai,ea,"50,8998","88,0672",1846,Eurasia
+603,nort2690,UZBEK,upsid,"43,7489",59231,366,Eurasia
+2296,nort2697,North Azerbaijani,ea,"40,9777","46,4737",266,Eurasia
+2217,nucl1301,Turkish,uz,"39,8667","32,8667",1068,Eurasia
+2523,sala1264,Salar,ea,"35,5457",102819,2943,Eurasia
+2259,sout2697,South Azerbaijani,ea,"36,5137","48,4302",2276,Eurasia
+2609,tata1255,Tatar,ea,55,50,165,Eurasia
+2595,turk1304,Turkmen,ea,"37,0872","59,1757",2261,Eurasia
+1225,tuvi1240,Tuva; Tuvan,ph,48436,"92,6693",614,Eurasia
+2612,uigh1240,Uyghur,ea,"43,67","79,75",722,Eurasia
+2444,yaku1245,Sakha,ea,"61,6974","133,98",170,Eurasia
+1379,huaa1248,!Xóõ,gm,"-24,20022","20,79583",1124,Africa
+2122,kari1255,Karirí-Xocó,saphon,"-9,84999","-36,3333",183,South America
+2268,bese1243,Beserman,ea,NA,NA,NA,Eurasia
+858,east2328,Cheremis,ph,"55,8307",48405,63,Eurasia
+2616,erzy1239,Erzya,ea,"52,8548","45,3901",179,Eurasia
+2181,esto1258,Estonian,uz,"58,55","25,82",56,Eurasia
+2535,finn1318,Finnish,ea,"64,7628","25,5577",22,Eurasia
+2469,fore1265,Forest Enets,ea,"69,9829","88,2121",121,Eurasia
+2450,fore1274,Forest Nenets,ea,"63,72","71,97",108,Eurasia
+2191,hung1274,Hungarian,uz,"46,9068585714","19,6555271429",110,Eurasia
+2459,kama1351,Kamassian,ea,"55,07","94,83",445,Eurasia
+2446,kare1335,Karelian,ea,"65,1691","30,8655",97,Eurasia
+1137,khan1273,Eastern Khanty,ph,"62,4308","66,1218",15,Eurasia
+2260,kild1236,Kildin Saami,ea,"68,2158","35,8348",235,Eurasia
+2460,komi1268,Komi-Zyrian,ea,"64,0527",54946,181,Eurasia
+2575,komi1269,Komi-Permyak,ea,"59,6602","54,7959",157,Eurasia
+2384,komi1277,Yodzyak Komi,ea,60717,55756,182,Eurasia
+2448,livv1244,Livonian,ea,57566,"22,0262",16,Eurasia
+2475,mans1258,Northern Mansi,ea,"64,4118",61344,84,Eurasia
+2243,moks1248,Moksha,ea,"54,1855","42,6728",159,Eurasia
+2402,nene1249,Tundra Nenets,ea,"66,1775","71,0234",55,Eurasia
+2461,ngan1291,Nganasan,ea,"73,1354","86,2106",30,Eurasia
+2235,nort2671,Northern Saami,uz,68725,"22,1113",545,Eurasia
+2234,pite1240,Pite Saami,uz,"66,4011","17,4261",523,Eurasia
+2485,selk1253,Taz Selkup,ea,"59,9409","82,3004",68,Eurasia
+2566,skol1241,Skolt Saami,ea,"68,8326","29,7204",173,Eurasia
+549,sout2674,SAAMI,upsid,"62,8801","13,7006",733,Eurasia
+2442,sout2679,Võro,ea,"57,85",27,72,Eurasia
+2494,ters1235,Ter Saami,ea,"67,2458","38,5061",181,Eurasia
+2434,vach1239,Eastern Khanty,ea,NA,NA,NA,Eurasia
+2490,veps1250,Veps,ea,"60,3353","34,7865",223,Eurasia
+2326,voti1245,Votic,ea,"59,3802","28,6235",30,Eurasia
+2273,west2392,Hill Mari,ea,"56,22",46569,164,Eurasia
+2126,chip1262,Chipaya,saphon,"-18,73951","-67,89633",3703,South America
+2127,uruu1244,Uru,saphon,"-16,72547","-68,97119",3674,South America
+864,coma1245,Comanche,ph,"34,5701",-98424,892,North America
+865,cupe1243,Cupeno,ph,"33,3148",-116515,1453,North America
+95,hopi1249,Hopi,spa,"35,7653",-110535,1728,North America
+1033,huar1255,Warihio,ph,"27,8685",-108437,1168,North America
+886,huic1243,Huichol,ph,21954,-104062,959,North America
+624,kawa1283,KAWAIISU,upsid,"36,0538",-118679,1328,North America
+94,luis1253,Luiseno,spa,"33,3184",-116939,822,North America
+957,mich1245,Michoacan Nahual,ph,"18,3412",-103361,194,North America
+966,nort2954,Northern Paiute,ph,"40,0799",-119536,1140,North America
+486,nort2957,NAHUATL,upsid,"20,1356","-97,9814",1438,North America
+1133,pana1305,Panamint,ph,"36,0007",-117901,1017,North America
+1004,serr1255,Serrano,ph,"33,9479",-116772,818,North America
+96,toho1245,Pima,spa,"31,7973",-111995,630,North America
+1084,utes1238,Southern Ute; Ute; Ute-Southern Paiute,ph,"40,0965",-110305,1829,North America
+629,yaqu1251,YAQUI,upsid,"29,9446",-110681,849,North America
+71,kwak1269,Kwakiutl,spa,"50,9269",-127308,79,North America
+964,nuuc1236,Nootka,ph,"49,67","-126,67",401,North America
+2641,amii1238,Emmi,er,"-13,5573","130,04",13,Australia
+47,mara1386,Maranungku,spa,"-13,6754","130,12",78,Australia
+2637,mari1417,Marramaninyshi,er,"-14,1788",130561,282,Australia
+2638,mari1419,Marringarr,er,"-14,3819","130,25",247,Australia
+2639,mari1424,Marrithiyel,er,"-13,8818",130237,206,Australia
+2640,mart1254,Marti Ke,er,"-14,0058",129837,68,Australia
+613,wint1259,WINTU,upsid,"39,7176",-122445,181,North America
+3008,gamb1251,Gambera,er,"-14,29546","126,27131",42,Australia
+3009,kwin1241,Kwini,er,"-14,2515",126562,4,Australia
+3007,ngar1284,Ngarinyin,er,"-16,4006",126433,567,Australia
+3011,umii1236,Umiida,er,"-16,615461","124,079216",105,Australia
+3012,ungg1243,Unggumi,er,"-15,65","124,67",81,Australia
+3013,worr1237,Worrorra,er,"-15,612781","124,881218",68,Australia
+3010,wuna1249,Wunambal,er,"-14,8347","125,72",122,Australia
+3014,yawi1239,Yawijibaya,er,"-15,348087","124,529665",1,Australia
+3015,ward1246,Wardaman,er,"-15,4155",132604,202,Australia
+3016,yang1288,Yangman,er,"-14,4964","132,52",243,Australia
+2132,nina1238,Ninam,saphon,"4,03894","-62,7801",1050,South America
+1236,sanu1240,Sanuma; Sanumá,ph,"1,31875","-67,6498",979,South America
+2135,yano1261,Yanomamö,saphon,"1,67967","-64,8781",420,South America
+2134,yano1262,Yanomámi,saphon,"2,48999","-62,8522",507,South America
+637,yare1248,YAREBA,upsid,"-9,50651",148605,340,Papunesia
+644,nucl1454,YAWA,upsid,"-1,77196",136263,946,Papunesia
+2395,kett1243,Ket,ea,"63,7551","87,5466",28,Eurasia
+2286,nort2745,Tundra Yukaghir,ea,"65,3874",151318,12,Eurasia
+1027,sout2750,Yukaghir (Kolyma),ph,64218,154375,366,Eurasia
+607,wapp1239,WAPPO,upsid,"38,25","-122,5",47,North America
+1023,yuki1243,Yuki,ph,"39,8389",-123296,610,North America
+2137,ayor1240,Ayoreo,saphon,"-19,220055","-60,217495",266,South America
+2136,cham1315,Chamacoco,saphon,"-20,5899","-58,2005",78,South America
+2138,ando1255,Andoa,saphon,"-3,29664","-76,6056",239,South America
+2139,arab1268,Arabela,saphon,"-1,96126","-75,0612",168,South America
+2140,iqui1243,Iquito,saphon,"-3,31233","-73,97046",141,South America
+2141,zapa1253,Záparo,saphon,"-1,99871",-76364,209,South America
