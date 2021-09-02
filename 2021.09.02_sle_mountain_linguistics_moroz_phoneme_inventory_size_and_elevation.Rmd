@@ -509,14 +509,17 @@ plot(ggpredict(phoible_fit, terms = "elevation"))+
 
 # Discussion
 
-## False? results:
+## False? Results:
 
-As a result, I discovered a local effect in Dagestan that should be compared with other mountain areas (see e. g. affricate-rich languages in the Eastern Himalayan and in the Hindukush linguistic areas [@nikolaev18]). If they show similar results, it would confirm Johanna Nichols' [-@nichols13] hypothesis that mountain areas provide isolation and "isolation favors complexity". \pause
+As a result, I discovered a local effect in Dagestan that should be compared with other mountain areas (see e. g. affricate-rich languages in the Eastern Himalayan and in the Hindukush linguistic areas [@nikolaev18]). If they show similar results, it would confirm Johanna Nichols' [-@nichols13] hypothesis that mountain areas provide isolation and "isolation favors complexity".
+
+## False? Results:
 
 * However mountains can be different: see the Altai argument in [@urban20];
 * It make sense to think more about other obstacles (e. g. rivers and travel costs, see [Allassonnière-Tang, Her this conference], [Koile et al. forthcoming]);
-* Ignoring social and historical changes in language comunities leads to oversimplification: see about multilingualism patterns and their collapse in Dagestan [@dobrushina19] and Urban's note during this conference;
-* Pure altitude values are useless: as Mark said, we can't take this result and try to  predict something in e. g. South America.
+* Ignoring social, cultural and historical changes in language comunities leads to oversimplification: see about multilingualism patterns and their collapse in Dagestan [@dobrushina19] and Urban's note during this conference;
+* Pure altitude values are useless: as Mark said, we can't take this result and try to  predict something in e. g. South America;
+* I also wonder, what is the difference between Mountain area patterns and just Isolation patterns. Is it possible to treat Mountains as a complicated isolation situation?
 
 ## To future researcher
 
