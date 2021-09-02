@@ -88,7 +88,7 @@ There are a lot of work that connects language diversity to physical environment
 
 * famous and controversial [@everett13] that shows connection between altitude and distribution of ejectives and even propose a hypothesis of the reason of such a correlation
 * in [@bentz18] shows that phylogenetic signals correlates with different environmental factors (including altitude)
-* a lot of works by Johanna Nichols and lately summarised in [@urban20]
+* a lot of works by Johanna Nichols and summary in [@urban20]
 
 # Prediction of phonological inventory size
 ## Prediction of phonological inventory size
@@ -504,8 +504,9 @@ plot(ggpredict(phoible_fit, terms = "elevation"))+
 As a result, I discovered a local effect in Dagestan that should be compared with other mountain areas (see e. g. affricate-rich languages in the Eastern Himalayan and in the Hindukush linguistic areas [@nikolaev18]). If they show similar results, it would confirm Johanna Nichols' [-@nichols13] hypothesis that mountain areas provide isolation and "isolation favors complexity". \pause
 
 * However mountains can be different: see the Altai argument in [@urban20];
-* It make sense to think more about other obstacles (e. g. rivers and travel costs, see (Allassonnière-Tang, Her this con), (Koile et al. forthcoming));
-* Ignoring social and historical changes in language comunities leads to oversimplification: see about multilingualism patterns and their collapse in Dagestan [@dobrushina19];
+* It make sense to think more about other obstacles (e. g. rivers and travel costs, see [Allassonnière-Tang, Her this conference], [Koile et al. forthcoming]);
+* Ignoring social and historical changes in language comunities leads to oversimplification: see about multilingualism patterns and their collapse in Dagestan [@dobrushina19] and Urban's note during this conference;
+* Pure altitude values are useless: as Mark said, we can't take this result and try to  predict something in e. g. South America.
 
 ## To future researcher
 
