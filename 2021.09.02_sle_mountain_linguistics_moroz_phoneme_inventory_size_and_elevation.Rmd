@@ -518,7 +518,7 @@ As a result, I discovered a local effect in Dagestan that should be compared wit
 * However mountains can be different: see the Altai argument in [@urban20];
 * It make sense to think more about other obstacles (e. g. rivers and travel costs, see [Allassonnière-Tang, Her this conference], [Koile et al. forthcoming]);
 * Ignoring social, cultural and historical changes in language comunities leads to oversimplification: see about multilingualism patterns and their collapse in Dagestan [@dobrushina19] and Urban's note during this conference;
-* Pure altitude values are useless: as Mark said, we can't take this result and try to  predict something in e. g. South America;
+* Pure altitude values are useless: we can't take this result and try to  predict something in e. g. South America;
 * I also wonder, what is the difference between Mountain area patterns and just Isolation patterns. Is it possible to treat Mountains as a complicated isolation situation?
 
 ## To future researcher
